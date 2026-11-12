@@ -1,0 +1,6 @@
+data/cache/
+*.log
+.env
+.env.*
+node_modules/
+vendor/typescript5/

@@ -1,0 +1,2 @@
+// Optional supplementary adapter. Never substitutes JP release dates for CN dates.
+export async function atlasServant(region,id){if(!['CN','JP'].includes(region)||!/^\d+$/.test(String(id)))throw Error('Invalid Atlas region/id');const url=`https://api.atlasacademy.io/basic/${region}/servant/${id}`;const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error(`Atlas ${r.status}`);const raw=await r.json();if(!raw.id||!raw.name)throw Error('Invalid Atlas record');return {source:url,updatedAt:new Date().toISOString(),raw,cnDate:null};}

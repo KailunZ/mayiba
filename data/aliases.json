@@ -1,0 +1,5774 @@
+[
+  {
+    "alias": "水哈贝喵",
+    "id": "481",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装哈贝喵",
+    "id": "481",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水小野",
+    "id": "480",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装小野",
+    "id": "480",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓小野",
+    "id": "480",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑帝王花",
+    "id": "479",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水黑花",
+    "id": "479",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装黑花",
+    "id": "479",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水莉莉丝",
+    "id": "478",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水莉莉活",
+    "id": "478",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水奶龙",
+    "id": "477",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装奶龙",
+    "id": "477",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术奶龙",
+    "id": "477",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装帝王花",
+    "id": "476",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装花花",
+    "id": "476",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白花",
+    "id": "476",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水麻雀",
+    "id": "475",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂麻雀",
+    "id": "475",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装麻雀",
+    "id": "475",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "山中小伙",
+    "id": "474",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "山中青年",
+    "id": "474",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王哈Lily",
+    "id": "474",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪格蕾",
+    "id": "473",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑格蕾",
+    "id": "472",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小福",
+    "id": "471",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乌尔德",
+    "id": "470",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "羊弓",
+    "id": "470",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "横飞姬",
+    "id": "467",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "男团长",
+    "id": "466",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雅雅",
+    "id": "466",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "农神",
+    "id": "465",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "德墨忒尔",
+    "id": "465",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蛇妻",
+    "id": "463",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "开花爷爷",
+    "id": "462",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "冠呆毛",
+    "id": "461",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "盖提亚",
+    "id": "459",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇龙娘",
+    "id": "458",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "龙娘",
+    "id": "457",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "五星龙娘",
+    "id": "457",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "组长",
+    "id": "456",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "局长",
+    "id": "456",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大猩猩",
+    "id": "456",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑心",
+    "id": "453",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "拔刀斋",
+    "id": "453",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大尼莫",
+    "id": "452",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "鹤Lily",
+    "id": "451",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "青年克莱恩",
+    "id": "451",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓提亚马特",
+    "id": "450",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓提妈",
+    "id": "450",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水提妈",
+    "id": "450",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装提妈",
+    "id": "450",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水美游",
+    "id": "449",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装美游",
+    "id": "449",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水式姐",
+    "id": "448",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装式姐",
+    "id": "448",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "212",
+    "id": "448",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "216",
+    "id": "448",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水呼延灼",
+    "id": "447",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装呼延灼",
+    "id": "447",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水飞嫂",
+    "id": "446",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装飞嫂",
+    "id": "446",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水Lip",
+    "id": "445",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装Lip",
+    "id": "445",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "所长",
+    "id": "444",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "果子龙",
+    "id": "441",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莉莉活",
+    "id": "440",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "神贞德",
+    "id": "438",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "睡贞",
+    "id": "438",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "纹章蛇",
+    "id": "433",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "纹章龙",
+    "id": "433",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "毒龙",
+    "id": "433",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "绿龙",
+    "id": "433",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奶龙",
+    "id": "433",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狮心王理查",
+    "id": "432",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "理查1世",
+    "id": "432",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "理查一世",
+    "id": "432",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Space PhantasmoonⅤ",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Santasmoon",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幻月",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白月姬",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白公主",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔法少女",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "月披",
+    "id": "431",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞阿比",
+    "id": "430",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪梵高",
+    "id": "428",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "缪瑞恩",
+    "id": "426",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "糖果藤蔓",
+    "id": "426",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "藤蔓之滴",
+    "id": "426",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "猪笼草",
+    "id": "426",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "扎比子",
+    "id": "425",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "扎比夫",
+    "id": "424",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装特拉洛克",
+    "id": "422",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "维齐洛波奇特利",
+    "id": "422",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雨神",
+    "id": "422",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BB宇宙",
+    "id": "421",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黄金BB",
+    "id": "421",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "DB",
+    "id": "421",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装徐福",
+    "id": "420",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水徐福",
+    "id": "420",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇徐福",
+    "id": "420",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水毛妹",
+    "id": "419",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水尼基",
+    "id": "419",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "教教我吧！希耶尔老师",
+    "id": "418",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "星之希耶尔",
+    "id": "418",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "学姐",
+    "id": "418",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咖喱学姐",
+    "id": "418",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "安基埃列什基伽勒",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "太空埃列什基伽勒",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "兽艾蕾",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装艾蕾",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水艾蕾",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "宇宙蕾",
+    "id": "417",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿昙矶良",
+    "id": "416",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "第五魔法使",
+    "id": "413",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "卡伯爵",
+    "id": "410",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "新伯爵",
+    "id": "409",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑伯爵",
+    "id": "409",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "基岩",
+    "id": "409",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇玛丽",
+    "id": "407",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑玛丽",
+    "id": "407",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仙女座",
+    "id": "406",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇奶光",
+    "id": "403",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇赖光",
+    "id": "403",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "日本武尊",
+    "id": "402",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "裁谦信",
+    "id": "400",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杂贺孙市",
+    "id": "399",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杂贺萤",
+    "id": "399",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "武田信玄",
+    "id": "397",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "芭万·希",
+    "id": "392",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精骑士崔斯坦",
+    "id": "392",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖崔",
+    "id": "392",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精骑士巴格斯特",
+    "id": "391",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精骑士高文",
+    "id": "391",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖高",
+    "id": "391",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "梅柳齐娜·翁蒂娜",
+    "id": "390",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精骑士兰斯洛特",
+    "id": "390",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖兰",
+    "id": "390",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "梅芙",
+    "id": "389",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇小黑",
+    "id": "388",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水C呆",
+    "id": "386",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "汇呆",
+    "id": "386",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "呆B",
+    "id": "386",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水摩根",
+    "id": "385",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术摩根",
+    "id": "385",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "汪姐",
+    "id": "385",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑R姐",
+    "id": "384",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑樱",
+    "id": "383",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "迦梨",
+    "id": "383",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼狗",
+    "id": "379",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "兽尼禄",
+    "id": "377",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "提妈",
+    "id": "376",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小提妈",
+    "id": "376",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼提妈",
+    "id": "376",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "社长",
+    "id": "375",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女教皇琼安",
+    "id": "374",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "羽蛇神",
+    "id": "373",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大姐姐",
+    "id": "373",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "维齐洛波奇特利",
+    "id": "372",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "特诺奇蒂特兰",
+    "id": "372",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雨神",
+    "id": "372",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "烟雾镜",
+    "id": "371",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑尼托",
+    "id": "370",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇尼托",
+    "id": "370",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "言峰绮礼",
+    "id": "369",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "言峰神父",
+    "id": "369",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "麻婆",
+    "id": "369",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吾绰",
+    "id": "365",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "一与",
+    "id": "364",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "驹姬",
+    "id": "362",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女武神",
+    "id": "361",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女武神",
+    "id": "360",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女武神",
+    "id": "359",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "周照",
+    "id": "358",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "rba",
+    "id": "357",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水伊吹",
+    "id": "355",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装伊吹",
+    "id": "355",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女梅林",
+    "id": "353",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "方巿",
+    "id": "352",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱尔奎特·布伦史塔德",
+    "id": "351",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "地球姬",
+    "id": "351",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "公主",
+    "id": "351",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿路",
+    "id": "349",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黄巾",
+    "id": "348",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "教授lily",
+    "id": "346",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莫里亚蒂lily",
+    "id": "346",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "茉莉",
+    "id": "346",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "飞嫂",
+    "id": "345",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "克琳希德",
+    "id": "345",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "脱衣男",
+    "id": "344",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "夏露露",
+    "id": "343",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "君十一",
+    "id": "342",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二征",
+    "id": "337",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "faker",
+    "id": "335",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Faker",
+    "id": "335",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "暗狐",
+    "id": "334",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "暗兔",
+    "id": "334",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "毛妹",
+    "id": "332",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尼基",
+    "id": "332",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "姜太公",
+    "id": "331",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "钓鱼佬",
+    "id": "331",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "姜子牙",
+    "id": "331",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术马达",
+    "id": "330",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术马大",
+    "id": "330",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞玛尔达",
+    "id": "330",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪龙马",
+    "id": "329",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "森兰丸",
+    "id": "328",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "童话龙娘",
+    "id": "326",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R龙娘",
+    "id": "326",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女团长",
+    "id": "324",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大团长",
+    "id": "324",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泡馍",
+    "id": "321",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水迦摩",
+    "id": "321",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水达芬奇",
+    "id": "320",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蛾子",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥博龙",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥贝龙",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥伯隆",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精王",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥宝",
+    "id": "316",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "哈贝喵",
+    "id": "315",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀狐",
+    "id": "314",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "光狐",
+    "id": "314",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红拐",
+    "id": "314",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀兔",
+    "id": "314",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "光兔",
+    "id": "314",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "帕西瓦尔",
+    "id": "313",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖兰",
+    "id": "312",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖崔",
+    "id": "311",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "芭万希",
+    "id": "311",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖高",
+    "id": "310",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王姐",
+    "id": "309",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "fbi",
+    "id": "308",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "鹤小姐",
+    "id": "307",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "士郎",
+    "id": "302",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "桑塔纳",
+    "id": "301",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞小太阳",
+    "id": "301",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣太阳",
+    "id": "301",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣迦尔纳",
+    "id": "301",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞迦尔纳.泰拳",
+    "id": "301",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "福利多",
+    "id": "300",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "船长",
+    "id": "296",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "邪马台国女王",
+    "id": "292",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "骑紫式部",
+    "id": "291",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑巴御前",
+    "id": "290",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪虞姬",
+    "id": "288",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪雏罂",
+    "id": "288",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金枪虞",
+    "id": "288",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水虞",
+    "id": "288",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂布姐",
+    "id": "287",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓伊莉雅",
+    "id": "286",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "瞑生院祈荒",
+    "id": "285",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水杀生院",
+    "id": "285",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水院",
+    "id": "285",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C呆",
+    "id": "284",
+    "weight": 1,
+    "source": "https://www.bilibili.com/video/BV1Cg41177e3/"
+  },
+  {
+    "alias": "术呆",
+    "id": "284",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "caber",
+    "id": "284",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C呆",
+    "id": "284",
+    "weight": 1,
+    "source": "https://www.bilibili.com/video/BV1Cg41177e3/"
+  },
+  {
+    "alias": "阿尔托莉雅·Caster",
+    "id": "284",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "宇津见绘里世",
+    "id": "283",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "艾莉瑟",
+    "id": "283",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "恐龙",
+    "id": "282",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小王子",
+    "id": "281",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "神祖",
+    "id": "280",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "沸羊羊",
+    "id": "279",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "双子座",
+    "id": "278",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "双子",
+    "id": "278",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "清子",
+    "id": "276",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杨玉环",
+    "id": "275",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "琰女",
+    "id": "275",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大老师",
+    "id": "273",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "超人熊",
+    "id": "272",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓南丁",
+    "id": "271",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑阿福",
+    "id": "270",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑福",
+    "id": "270",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "宇宙凛",
+    "id": "268",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "太空凛",
+    "id": "268",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "S凛",
+    "id": "268",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇凛",
+    "id": "268",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "星空凛",
+    "id": "268",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀总司",
+    "id": "267",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪莉莉丝",
+    "id": "266",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装莉莉丝",
+    "id": "266",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尺呆",
+    "id": "265",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "兔子王",
+    "id": "265",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "荷官",
+    "id": "265",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尺枪呆",
+    "id": "265",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水枪呆",
+    "id": "265",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑北斋",
+    "id": "264",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "骑大龙娘",
+    "id": "263",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓刑部姬",
+    "id": "262",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂武藏",
+    "id": "261",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水武藏",
+    "id": "261",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "夏绿蒂",
+    "id": "259",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "罗伯茨",
+    "id": "257",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "达芬奇lily",
+    "id": "253",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小芬奇",
+    "id": "253",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小达芬奇",
+    "id": "253",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "达芬骑",
+    "id": "253",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "上杉谦信",
+    "id": "252",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "森君",
+    "id": "251",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "仇信",
+    "id": "250",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "医神",
+    "id": "249",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蛇夫座",
+    "id": "249",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "马勇",
+    "id": "248",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "芭娜娜",
+    "id": "247",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂娜",
+    "id": "247",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂娜娜",
+    "id": "247",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "印度贞德",
+    "id": "245",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "章西女王",
+    "id": "245",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "詹西女王",
+    "id": "245",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吉娜可·加里吉利",
+    "id": "244",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大象",
+    "id": "244",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小灰",
+    "id": "243",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金钻头",
+    "id": "242",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "露维亚",
+    "id": "242",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "淑女起重机",
+    "id": "242",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "义妹",
+    "id": "241",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑樱",
+    "id": "239",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀库拉",
+    "id": "239",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "撒库拉",
+    "id": "239",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "夹馍",
+    "id": "239",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "荚膜",
+    "id": "239",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "帝王花",
+    "id": "238",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金普洛提亚",
+    "id": "238",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "李大师",
+    "id": "235",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀阶李书文",
+    "id": "235",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老李",
+    "id": "235",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "卫士长",
+    "id": "235",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小麻雀",
+    "id": "234",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞羽蛇神",
+    "id": "233",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尺羽蛇",
+    "id": "233",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "布妹",
+    "id": "232",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "辣馒头",
+    "id": "232",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尻枪",
+    "id": "232",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "不辣的馒头",
+    "id": "232",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "pp枪",
+    "id": "232",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "丹驹",
+    "id": "231",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "虞姬",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雏罂",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老芥",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "暴躁老芥",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "文学少女",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "虞奶奶",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "学姐",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "前辈",
+    "id": "230",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "嬴政",
+    "id": "229",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "秦始皇",
+    "id": "229",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "祖政",
+    "id": "229",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "忠贞",
+    "id": "228",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "西楚霸王",
+    "id": "226",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "重瞳",
+    "id": "226",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术酒吞",
+    "id": "225",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C酒吞",
+    "id": "225",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "AE伊莉雅",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "西托奈",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "神伊",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "志度内",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "熊莉雅",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "熊伊",
+    "id": "224",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑刷",
+    "id": "223",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水枪X",
+    "id": "222",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "XX毛",
+    "id": "222",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑梅芙",
+    "id": "221",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水B",
+    "id": "220",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "科B",
+    "id": "220",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水黑贞",
+    "id": "219",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂黑贞",
+    "id": "219",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂贞",
+    "id": "219",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀牛若",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "牛若",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "牛肉丸",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水牛若",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水牛",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "天狗",
+    "id": "218",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪茨木",
+    "id": "217",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水鬼",
+    "id": "217",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "河童",
+    "id": "217",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "鲸贞姑",
+    "id": "216",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水白贞",
+    "id": "216",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓白贞",
+    "id": "216",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贞环转",
+    "id": "216",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "cba",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "绿拐",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C师匠",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C师酱",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "CBA",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术师匠",
+    "id": "215",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女武神",
+    "id": "214",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "西哥",
+    "id": "213",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "拿皇",
+    "id": "212",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "龙马",
+    "id": "211",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿龙",
+    "id": "211",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "人斩",
+    "id": "210",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔神总司",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "炼狱Alter",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "总司酱",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑总司",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔总",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "摩斯",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑冲田",
+    "id": "209",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥特飞",
+    "id": "208",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小龙",
+    "id": "208",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "师匠",
+    "id": "207",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "马老师",
+    "id": "207",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "脚后跟",
+    "id": "206",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿基里斯",
+    "id": "206",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雷帝",
+    "id": "205",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "萨老师",
+    "id": "204",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑C",
+    "id": "203",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑c",
+    "id": "203",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿维老师",
+    "id": "203",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂塔",
+    "id": "202",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑塔",
+    "id": "202",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑塔喵",
+    "id": "202",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂阿塔",
+    "id": "202",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "皇女",
+    "id": "201",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "藤乃",
+    "id": "200",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女帝",
+    "id": "199",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿荣",
+    "id": "198",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "北斋",
+    "id": "198",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓大王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咩王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咩大王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣诞大王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咩咩咩",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "A提拉",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咩提拉",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "羊王",
+    "id": "197",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "艾蕾",
+    "id": "196",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪凛",
+    "id": "196",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿比",
+    "id": "195",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泡泡",
+    "id": "195",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "银钥匙",
+    "id": "195",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "钥匙孔",
+    "id": "195",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "示巴女王",
+    "id": "194",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "三太子",
+    "id": "193",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莲偶",
+    "id": "193",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "姑姑",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "喀耳刻",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C姑",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "姑妈",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "猪妈",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咕咕",
+    "id": "192",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "机械龙娘",
+    "id": "191",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "2号机",
+    "id": "191",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "机械小伊丽",
+    "id": "191",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二号机",
+    "id": "191",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "铁龙娘",
+    "id": "191",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "机械龙娘",
+    "id": "190",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "1号机",
+    "id": "190",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "机械小伊丽",
+    "id": "190",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "初号机",
+    "id": "190",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "彩龙娘",
+    "id": "190",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "宅姬",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "NEET姬",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "家里蹲",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "绿拐",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "邢捕头",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老邢",
+    "id": "189",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "段藏",
+    "id": "188",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑圣",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "柳但",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "榴弹",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "柳糖",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老爷",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老爷子",
+    "id": "187",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "和尚",
+    "id": "186",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "武僧",
+    "id": "186",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "fgo玩家线下聚会",
+    "id": "186",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "望月千代女",
+    "id": "185",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巴御前",
+    "id": "184",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巴",
+    "id": "184",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "鲅鱼圈",
+    "id": "184",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巴妈",
+    "id": "184",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雪山樱",
+    "id": "183",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雪山女神",
+    "id": "183",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R凛",
+    "id": "182",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "骑凛",
+    "id": "182",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水凛",
+    "id": "182",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪奶光",
+    "id": "181",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪赖光",
+    "id": "181",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓海",
+    "id": "180",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓海伦娜",
+    "id": "180",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装海伦娜",
+    "id": "180",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水黑呆",
+    "id": "179",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女仆呆",
+    "id": "179",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水无毛",
+    "id": "179",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水骑呆",
+    "id": "179",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女仆",
+    "id": "179",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂信长",
+    "id": "178",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Nobu!",
+    "id": "178",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀尼托",
+    "id": "177",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水泥",
+    "id": "177",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水尼托",
+    "id": "177",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑肯娘",
+    "id": "176",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术尼禄",
+    "id": "175",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装尼禄",
+    "id": "175",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水尼禄",
+    "id": "175",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水泥路",
+    "id": "175",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水尼",
+    "id": "175",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "班扬",
+    "id": "174",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "保罗",
+    "id": "174",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巨人",
+    "id": "174",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老福",
+    "id": "173",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "克里斯托弗·哥伦布",
+    "id": "172",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Christopher Columbus",
+    "id": "172",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "CEO",
+    "id": "171",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "亚马逊",
+    "id": "171",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "彭忒西勒亚",
+    "id": "171",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "武则天",
+    "id": "170",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "周照",
+    "id": "170",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "1001",
+    "id": "169",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "山鲁佐德",
+    "id": "169",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖尼姑",
+    "id": "167",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "瞑生院祈荒",
+    "id": "167",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "SSY",
+    "id": "167",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "院院",
+    "id": "167",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔性菩萨",
+    "id": "167",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BB",
+    "id": "166",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "JK狐",
+    "id": "165",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Lip",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "帕森莉普",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "热情迷唇",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "西番莲",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "郁金香",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "lip",
+    "id": "164",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "溶解莉莉丝",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "梅尔特莉莉丝",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Melt Lilith",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "孤挺花",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "lls",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "melt",
+    "id": "163",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "浅井茶茶",
+    "id": "162",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "淀殿",
+    "id": "162",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "cha cha ka wa ii",
+    "id": "162",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "副长",
+    "id": "161",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "旧剑",
+    "id": "160",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小乙哥",
+    "id": "159",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "燕青",
+    "id": "159",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狼王",
+    "id": "158",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑森·罗伯",
+    "id": "158",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Hessian Lobo",
+    "id": "158",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑A",
+    "id": "157",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑茶",
+    "id": "157",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "教授",
+    "id": "156",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "詹姆斯·莫里亚蒂",
+    "id": "156",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "James Moriarty",
+    "id": "156",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "新茶",
+    "id": "156",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BX",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BX毛",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B呆",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "bx",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "bx毛",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "b呆",
+    "id": "155",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王哈",
+    "id": "154",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爷爷",
+    "id": "154",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "中东狂战士",
+    "id": "154",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "朱苏德拉",
+    "id": "154",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "武藏",
+    "id": "153",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "武藏亲",
+    "id": "153",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "天元之花",
+    "id": "153",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "火箭队",
+    "id": "153",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔法☆梅莉",
+    "id": "150",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红拐",
+    "id": "150",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "花之魔术师",
+    "id": "150",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿瓦隆剑圣",
+    "id": "150",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老虎",
+    "id": "148",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大河",
+    "id": "148",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "藤姐",
+    "id": "148",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大河老师",
+    "id": "148",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔神R姐",
+    "id": "147",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "复仇R姐",
+    "id": "147",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "魔神r姐",
+    "id": "147",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R子",
+    "id": "146",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "安娜",
+    "id": "146",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "美杜莎Lily",
+    "id": "146",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼r",
+    "id": "146",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C闪",
+    "id": "145",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贤王",
+    "id": "145",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乌鲁克斧王",
+    "id": "145",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吉尔焦裕禄",
+    "id": "145",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "过劳死王",
+    "id": "145",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "羽蛇神",
+    "id": "144",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大姐姐",
+    "id": "144",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小恩",
+    "id": "143",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓凛",
+    "id": "142",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "伊什塔凛",
+    "id": "142",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "童贞",
+    "id": "141",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼贞",
+    "id": "141",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑贞Lily",
+    "id": "141",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "香香香",
+    "id": "141",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪大公",
+    "id": "140",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪公",
+    "id": "140",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "艳后",
+    "id": "139",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "超高校级的艳后",
+    "id": "139",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "S龙娘",
+    "id": "138",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑龙娘",
+    "id": "138",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "勇者龙娘",
+    "id": "138",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小黑",
+    "id": "137",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "伊莉雅",
+    "id": "136",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小学生",
+    "id": "136",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "铁拳圣女",
+    "id": "135",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "铁拳圣裁",
+    "id": "135",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尺马大",
+    "id": "135",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "L清姬",
+    "id": "134",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪清姬",
+    "id": "134",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀师匠",
+    "id": "133",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水师匠",
+    "id": "133",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀阶BBA",
+    "id": "133",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀阶bba",
+    "id": "133",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R莫",
+    "id": "132",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "冲莫",
+    "id": "132",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳莫",
+    "id": "132",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "泳装小莫",
+    "id": "132",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "r莫",
+    "id": "132",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓双子",
+    "id": "131",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水马",
+    "id": "130",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水母",
+    "id": "130",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C玛丽",
+    "id": "130",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "c玛丽",
+    "id": "130",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水蛋糕",
+    "id": "130",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弓呆",
+    "id": "129",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪狐",
+    "id": "128",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "水狐",
+    "id": "128",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪玉",
+    "id": "128",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "达芬奇亲",
+    "id": "127",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大碧池",
+    "id": "127",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小卖部老板",
+    "id": "127",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奸商",
+    "id": "127",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小贝",
+    "id": "126",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贝卿",
+    "id": "126",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "表藤太",
+    "id": "125",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "送米弓",
+    "id": "125",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "米弓",
+    "id": "125",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "静谧",
+    "id": "124",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大猩猩",
+    "id": "123",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红卡大猩猩",
+    "id": "123",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "三红大猩猩",
+    "id": "123",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "正午魔王",
+    "id": "123",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小崔",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老崔",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "崔悲伤",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "特里斯坦",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "崔卿",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "特卿",
+    "id": "122",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑兰",
+    "id": "121",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑长江",
+    "id": "121",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "岳父",
+    "id": "121",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尼托",
+    "id": "120",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白枪呆",
+    "id": "119",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乳下",
+    "id": "119",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "北半球",
+    "id": "119",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "拉二",
+    "id": "118",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥兹曼迪亚斯",
+    "id": "118",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "拉二（拉美西斯二世）",
+    "id": "118",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王中王",
+    "id": "118",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "脚神",
+    "id": "116",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "茨木",
+    "id": "116",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R金时",
+    "id": "115",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "骑狗蛋",
+    "id": "115",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R狗蛋",
+    "id": "115",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奶光",
+    "id": "114",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "光妈",
+    "id": "114",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妈妈",
+    "id": "114",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "西行者",
+    "id": "113",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "sensei",
+    "id": "113",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "酒吞",
+    "id": "112",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "凹酱",
+    "id": "112",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "太太",
+    "id": "111",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱丽",
+    "id": "111",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "百貌",
+    "id": "110",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "切嗣",
+    "id": "109",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "切丝",
+    "id": "109",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Papa",
+    "id": "109",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "papa",
+    "id": "109",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "亚历山大大帝",
+    "id": "108",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "征服王",
+    "id": "108",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大帝",
+    "id": "108",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小安",
+    "id": "107",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑贞",
+    "id": "106",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "比利",
+    "id": "105",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "萨满",
+    "id": "104",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杰哥",
+    "id": "104",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱迪狮",
+    "id": "103",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "李大师",
+    "id": "102",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "罗一刀",
+    "id": "101",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红塔喵",
+    "id": "101",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "海伦娜",
+    "id": "100",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "海妈",
+    "id": "100",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "外星萝莉",
+    "id": "100",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "-",
+    "id": "99",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑狗",
+    "id": "98",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂狗",
+    "id": "98",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂王",
+    "id": "98",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "南丁",
+    "id": "97",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "护士",
+    "id": "97",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "伯爵",
+    "id": "96",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "超高校级的伯爵",
+    "id": "96",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "哈哈队成员",
+    "id": "96",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼闪",
+    "id": "95",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿福",
+    "id": "94",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "伪娘",
+    "id": "94",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "天草",
+    "id": "93",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小神父",
+    "id": "93",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "言峰士郎",
+    "id": "93",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杀式",
+    "id": "92",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "214",
+    "id": "92",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "式姐",
+    "id": "92",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "两医生",
+    "id": "92",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑式",
+    "id": "91",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "根源式",
+    "id": "91",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "215",
+    "id": "91",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "花嫁",
+    "id": "90",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "嫁王",
+    "id": "90",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狼叔",
+    "id": "89",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贝爷",
+    "id": "89",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "布姐",
+    "id": "88",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "团长",
+    "id": "87",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金发大姐姐",
+    "id": "87",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "X毛",
+    "id": "86",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "AX",
+    "id": "86",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小太阳",
+    "id": "85",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小汤圆",
+    "id": "85",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "周黑鸭",
+    "id": "84",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "娜娜子",
+    "id": "84",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿Jo娜",
+    "id": "84",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "肯娘",
+    "id": "82",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "弗兰",
+    "id": "82",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "海德",
+    "id": "81",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "化身博士",
+    "id": "81",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "博士",
+    "id": "81",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蒸汽王",
+    "id": "80",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巴贝奇老爷",
+    "id": "80",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "豆爸",
+    "id": "79",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑枪呆",
+    "id": "78",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乳上",
+    "id": "78",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "南半球",
+    "id": "78",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "特总",
+    "id": "77",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "祖师爷",
+    "id": "77",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小莫",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莫崽",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "坑爹剑",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "熊孩子",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莫孩儿",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "赤之saber",
+    "id": "76",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "女儿",
+    "id": "75",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "雾都弃子",
+    "id": "75",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "杰克",
+    "id": "75",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑Assassin",
+    "id": "75",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱丽丝",
+    "id": "74",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "本子",
+    "id": "74",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小黄书",
+    "id": "74",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Raber",
+    "id": "73",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "raber",
+    "id": "73",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小刚",
+    "id": "72",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老福",
+    "id": "72",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "手滑福",
+    "id": "72",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "刷子",
+    "id": "71",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "光辉之貌",
+    "id": "71",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "刷哥",
+    "id": "71",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "迪卢木多",
+    "id": "71",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "师匠",
+    "id": "70",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BBA",
+    "id": "70",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "紫发美少女",
+    "id": "70",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "师酱",
+    "id": "70",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "信长",
+    "id": "69",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Nobu",
+    "id": "69",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "第六天萌王",
+    "id": "69",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "樱Saber",
+    "id": "68",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "冲太",
+    "id": "68",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "总司桑",
+    "id": "68",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "冲田小姐",
+    "id": "68",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C子",
+    "id": "67",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "双子",
+    "id": "66",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "船长",
+    "id": "65",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "BBA",
+    "id": "65",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "赫叔",
+    "id": "64",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大叔",
+    "id": "64",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "所罗门爹",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "抹茶",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "制杖弓",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "石头弓兵",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "所罗门爸爸",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "牧羊人",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "五石已到",
+    "id": "63",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C狐",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C玉",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Miko",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "咪咕",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "c狐",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "c玉",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小玉藻",
+    "id": "62",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C龙娘",
+    "id": "61",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "术龙娘",
+    "id": "61",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "月神",
+    "id": "60",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "村姑",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贞日天",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尺子",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "法国民心",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白贞",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "扛旗秤砣侠",
+    "id": "59",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B玉",
+    "id": "58",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B狐",
+    "id": "58",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B猫",
+    "id": "58",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B喵",
+    "id": "58",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "玉藻喵",
+    "id": "58",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "病娇",
+    "id": "56",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "酋长",
+    "id": "55",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大表哥",
+    "id": "55",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "鬼舅",
+    "id": "54",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小牛",
+    "id": "53",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大公",
+    "id": "52",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "穿刺公",
+    "id": "52",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "刺绣公",
+    "id": "52",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二胡公",
+    "id": "52",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B金时",
+    "id": "51",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狗蛋",
+    "id": "51",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱酱",
+    "id": "50",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "微笑Boy",
+    "id": "50",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "斯巴达",
+    "id": "50",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "兄贵",
+    "id": "50",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "微笑boy",
+    "id": "50",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吕布",
+    "id": "49",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吕高达",
+    "id": "49",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "虎狼",
+    "id": "49",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "长江",
+    "id": "48",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂兰",
+    "id": "48",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "岳父",
+    "id": "48",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B长江",
+    "id": "48",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "狂长江",
+    "id": "48",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B叔",
+    "id": "47",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "海叔",
+    "id": "47",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "巴萨卡",
+    "id": "47",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大龙娘",
+    "id": "46",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "舞娘",
+    "id": "45",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "匕见",
+    "id": "42",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大姐",
+    "id": "41",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "忠义无双",
+    "id": "40",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "屠龙剑圣",
+    "id": "39",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小次郎",
+    "id": "39",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "看门大爷",
+    "id": "39",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "火箭队",
+    "id": "39",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C狗",
+    "id": "38",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "法狗",
+    "id": "38",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "c狗",
+    "id": "38",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大火法",
+    "id": "38",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "孔老师",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "拐",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "村夫",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "孔日天",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王妃（男）",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "韦伯",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "隆中响指王",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二世",
+    "id": "37",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "假面",
+    "id": "36",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "妖精假面",
+    "id": "36",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "恶魔",
+    "id": "35",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "小丑",
+    "id": "35",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莎比",
+    "id": "34",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莎翁",
+    "id": "34",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "—",
+    "id": "33",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C元帅",
+    "id": "32",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蓝胡子",
+    "id": "32",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "C妈",
+    "id": "31",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "马大",
+    "id": "30",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣女",
+    "id": "30",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王后",
+    "id": "29",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蛋糕",
+    "id": "29",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "王妃",
+    "id": "29",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幼帝",
+    "id": "28",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "牛肉丸",
+    "id": "27",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "牛若",
+    "id": "27",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "布妈",
+    "id": "26",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "布姐（红）",
+    "id": "26",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "罗马拐",
+    "id": "26",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑胡子",
+    "id": "25",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "男船长",
+    "id": "25",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "船长（男）",
+    "id": "25",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乔老师",
+    "id": "24",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "圣乔治",
+    "id": "24",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "你也是龙",
+    "id": "24",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "摄影师",
+    "id": "24",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "R姐",
+    "id": "23",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "歌果",
+    "id": "23",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "罗马",
+    "id": "22",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "神祖",
+    "id": "22",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "炎头",
+    "id": "21",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "斯巴达",
+    "id": "21",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "旧狗",
+    "id": "20",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "P狗",
+    "id": "20",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "常陆坊海尊",
+    "id": "19",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "龙娘",
+    "id": "18",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "枪龙娘",
+    "id": "18",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "爱豆露（偶像）",
+    "id": "18",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "汪酱",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大狗",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "非洲战神",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "幸运E",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "L汪",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "旋转的蓝色枪兵",
+    "id": "17",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "自爆弓",
+    "id": "16",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大英雄",
+    "id": "16",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Stella",
+    "id": "16",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二姐",
+    "id": "15",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿塔",
+    "id": "14",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "塔喵",
+    "id": "14",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "猫茶",
+    "id": "14",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "绿茶",
+    "id": "13",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "罗宾",
+    "id": "13",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金闪闪",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "二闪",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "乌鲁克村长",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "金皮卡",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "A闪",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "英雄王",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黄金王",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "最古老",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "AUO",
+    "id": "12",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红A",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红茶",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "核弹剑仙",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "阿茶",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "背影男",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "贩剑弓兵",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "士郎",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "老妈子",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑骨头",
+    "id": "11",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "德翁",
+    "id": "10",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "剑元帅",
+    "id": "9",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吉尔·德·雷(lily)",
+    "id": "9",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "大王",
+    "id": "8",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "B提拉",
+    "id": "8",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "彩笔",
+    "id": "8",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红Saber",
+    "id": "7",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "胖尼禄",
+    "id": "7",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "凯撒",
+    "id": "7",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红SABER(胖)",
+    "id": "7",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "飞哥",
+    "id": "6",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "对不起",
+    "id": "6",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "尼禄",
+    "id": "5",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红Saber",
+    "id": "5",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "红saber",
+    "id": "5",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "暴君",
+    "id": "5",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "奥林匹亚之花",
+    "id": "5",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "莉莉",
+    "id": "4",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Lily",
+    "id": "4",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白Saber",
+    "id": "4",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "白呆",
+    "id": "4",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑呆",
+    "id": "3",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑无毛",
+    "id": "3",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "黑王",
+    "id": "3",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "呆毛",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "蓝呆",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "棉被",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "Saber",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "看板娘",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "吾王",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "呆毛王",
+    "id": "2",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "盾娘",
+    "id": "1",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "学妹",
+    "id": "1",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  },
+  {
+    "alias": "茄子",
+    "id": "1",
+    "weight": 1,
+    "source": "https://fgo.wiki/w/英灵图鉴/数据"
+  }
+]
