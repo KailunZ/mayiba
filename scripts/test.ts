@@ -1,4 +1,4 @@
-import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {compare,day,daily,submit,search,keys,restore,randomAnswer,share} from '../src/engine.ts';import {templates} from './mooncell.mjs';
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {completeAcquisition,compare,day,daily,submit,search,keys,restore,randomAnswer,share} from '../src/engine.ts';import {templates} from './mooncell.mjs';
 const db=JSON.parse(fs.readFileSync('data/servants.json','utf8'));
 test('真实数据同值与缺失',()=>{for(const s of db)for(const k of keys())if(s[k]!=null&&!Array.isArray(s[k])||Array.isArray(s[k])&&s[k].every(v=>v!=null))assert.equal(compare(k,s[k],s[k]),'exact',s.id+':'+k);assert.equal(compare('cn',null,false),'unknown');assert.equal(compare('cards','???','BAAQQ'),'unknown')});
 test('多画师多声优多出处地域及获取集合',()=>{for(const k of ['artist','cv','origin','region','acquisition']){assert.equal(compare(k,['a','b'],['b','c']),'partial');assert.equal(compare(k,['a','a'],['a']),'exact');assert.equal(compare(k,[],['a']),'unknown');}});
@@ -12,3 +12,5 @@ test('中文单字与同名不同版本',()=>{assert.ok(search(db,'阿').length>
 test('核实绰号排名',()=>{for(const [q,id] of [['黑贞','106'],['狂娜','247'],['C呆','284'],['215','91'],['杀狐','314'],['CBA','215']])assert.equal(search(db,q)[0]?.id,id,q);assert.ok(search(db,'呆毛').some(s=>s.id==='2'));});
 test('拼音、首字母、繁体和拼写容错',()=>{assert.ok(search(db,'aertuoliya').some(s=>s.id==='2'));assert.ok(search(db,'aetly').some(s=>s.id==='2'));assert.ok(search(db,'阿爾托莉雅').some(s=>s.id==='2'));assert.ok(search(db,'aertuoliy').some(s=>s.id==='2'));});
 test('嵌套模板安全解析',()=>{const t=templates('{{基础数值|中文名=测试|画师={{链接|甲|乙}}|性别=不明}}').find(t=>t.name==='基础数值');assert.equal(t.p['画师'],'{{链接|甲|乙}}');assert.equal(t.p['性别'],'不明')});
+
+test('三星常驻双召唤途径且不污染限定与旧快照',()=>{const original={rarity:3,acquisition:['圣晶石常驻']};const fixed=completeAcquisition(original);assert.deepEqual(fixed.acquisition,['圣晶石常驻','友情点召唤']);assert.deepEqual(original.acquisition,['圣晶石常驻']);assert.deepEqual(completeAcquisition(fixed),fixed);for(const method of ['剧情限定','期间限定'])assert.deepEqual(completeAcquisition({rarity:3,acquisition:[method]}).acquisition,[method]);assert.equal(compare('acquisition',fixed.acquisition,['友情点召唤']),'partial');});
