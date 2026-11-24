@@ -14,3 +14,5 @@ test('拼音、首字母、繁体和拼写容错',()=>{assert.ok(search(db,'aert
 test('嵌套模板安全解析',()=>{const t=templates('{{基础数值|中文名=测试|画师={{链接|甲|乙}}|性别=不明}}').find(t=>t.name==='基础数值');assert.equal(t.p['画师'],'{{链接|甲|乙}}');assert.equal(t.p['性别'],'不明')});
 
 test('三星常驻双召唤途径且不污染限定与旧快照',()=>{const original={rarity:3,acquisition:['圣晶石常驻']};const fixed=completeAcquisition(original);assert.deepEqual(fixed.acquisition,['圣晶石常驻','友情点召唤']);assert.deepEqual(original.acquisition,['圣晶石常驻']);assert.deepEqual(completeAcquisition(fixed),fixed);for(const method of ['剧情限定','期间限定'])assert.deepEqual(completeAcquisition({rarity:3,acquisition:[method]}).acquisition,[method]);assert.equal(compare('acquisition',fixed.acquisition,['友情点召唤']),'partial');});
+
+test('放弃后不可提交且刷新保留状态',()=>{const state={answer:db[0].id,guesses:[],gaveUp:true};assert.deepEqual(submit(state,db[1].id),state);assert.deepEqual(restore(JSON.stringify(state),db),state);assert.match(share(state,db,false,'测试'),/X\/8/);});

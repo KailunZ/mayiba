@@ -12,7 +12,7 @@ export const day=(d=new Date())=>new Date(+d+28800000).toISOString().slice(0,10)
 export function hash(text:string){let h=2166136261;for(const c of text)h=Math.imul(h^c.charCodeAt(0),16777619);return h>>>0;}
 export function daily(pool:any[],date=day(),version='v1'){if(!pool.length)throw Error('答案池为空');return pool[hash(version+date)%pool.length];}
 export function randomAnswer(pool:Servant[],previous?:string,random=Math.random){const choices=pool.filter(x=>x.id!==previous);if(!choices.length)throw Error('可用答案不足');return choices[Math.floor(random()*choices.length)];}
-export function submit(s:any,id:string,validIds?:Set<string>){if(validIds&&!validIds.has(id)||s.guesses.includes(id)||s.guesses.length>=8||s.guesses.includes(s.answer))return s;return {...s,guesses:[...s.guesses,id]};}
+export function submit(s:any,id:string,validIds?:Set<string>){if(s.gaveUp===true||validIds&&!validIds.has(id)||s.guesses.includes(id)||s.guesses.length>=8||s.guesses.includes(s.answer))return s;return {...s,guesses:[...s.guesses,id]};}
 export function restore(raw:string|null,db:Servant[],expected?:string){try{const s=JSON.parse(raw||'null');const ids=new Set(db.map(x=>x.id));if(!s||!ids.has(s.answer)||expected&&s.answer!==expected||!Array.isArray(s.guesses)||s.guesses.length>8||new Set(s.guesses).size!==s.guesses.length||s.guesses.some((x:any)=>!ids.has(x))||s.guesses.includes(s.answer)&&s.guesses.at(-1)!==s.answer)return null;return s;}catch{return null;}}
 const toSimple=Converter({from:'tw',to:'cn'});
 export const normalize=(s:string)=>toSimple(s.normalize('NFKC')).toLowerCase().replace(/[\s·・〔〕\[\]（）()－—\-／/]/g,'');
