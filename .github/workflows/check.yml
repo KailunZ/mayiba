@@ -11,3 +11,4 @@ jobs:
       - run: node scripts/validate.ts
       - run: node --test scripts/test.ts
       - run: node scripts/build.mjs
+      - run: node scripts/test-app.mjs

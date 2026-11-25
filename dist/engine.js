@@ -5,9 +5,9 @@ export const fields={artist:'画师',cv:'声优',class:'职阶',alignment:'属�
 export const keys=(hard=false)=>Object.keys(fields).filter(k=>!hard||!['gender','np','region','cn'].includes(k));
 export const missing=(v    )        =>v==null||v===''||Array.isArray(v)&&(!v.length||v.some(missing));
 const norm=(v    )       =>String(v).normalize('NFKC').trim();
-export function compare(k       ,a    ,b    )        {if(missing(a)||missing(b))return 'unknown';if(k==='region'||k==='origin')return compareLore(k,a,b);if(k==='cards'){a=a.replace(/\s/g,'').toUpperCase();b=b.replace(/\s/g,'').toUpperCase();if(!/^[BAQ]{5}$/.test(a)||!/^[BAQ]{5}$/.test(b))return 'unknown';a=a.split('').sort().join('');b=b.split('').sort().join('');}
+export function compare(k       ,a    ,b    )        {if(missing(a)||missing(b))return 'unknown';if(k==='region'||k==='origin')return compareLore(a,b);if(k==='cards'){a=a.replace(/\s/g,'').toUpperCase();b=b.replace(/\s/g,'').toUpperCase();if(!/^[BAQ]{5}$/.test(a)||!/^[BAQ]{5}$/.test(b))return 'unknown';a=a.split('').sort().join('');b=b.split('').sort().join('');}
 if(k==='alignment')return a.every((v    ,i       )=>norm(v)===norm(b[i]))?'exact':a.some((v    ,i       )=>norm(v)===norm(b[i]))?'partial':'miss';
-if(Array.isArray(a)&&Array.isArray(b)){const canon=(arr      )=>[...new Set(arr.map(v=>Array.isArray(v)?JSON.stringify(v.map(norm)):norm(v)))].sort();const aa=canon(a),bb=canon(b);if(JSON.stringify(aa)===JSON.stringify(bb))return 'exact';if(aa.some(v=>bb.includes(v)))return 'partial';if(k==='region'){const parts=(items         )=>items.flatMap(v=>v.split(/[·・]/)).map(norm);if(parts(a).some(v=>parts(b).includes(v)))return 'partial';}if(k==='np'&&a.some((x    )=>b.some((y    )=>x[0]===y[0]||x[1]===y[1])))return 'partial';return 'miss';}return a===b?'exact':'miss';}
+if(Array.isArray(a)&&Array.isArray(b)){const canon=(arr      )=>[...new Set(arr.map(v=>Array.isArray(v)?JSON.stringify(v.map(norm)):norm(v)))].sort();const aa=canon(a),bb=canon(b);if(JSON.stringify(aa)===JSON.stringify(bb))return 'exact';if(aa.some(v=>bb.includes(v)))return 'partial';if(k==='np'&&a.some((x    )=>b.some((y    )=>x[0]===y[0]||x[1]===y[1])))return 'partial';return 'miss';}return a===b?'exact':'miss';}
 export const day=(d=new Date())=>new Date(+d+28800000).toISOString().slice(0,10);
 export function hash(text       ){let h=2166136261;for(const c of text)h=Math.imul(h^c.charCodeAt(0),16777619);return h>>>0;}
 export function daily(pool      ,date=day(),version='v1'){if(!pool.length)throw Error('答案池为空');return pool[hash(version+date)%pool.length];}
@@ -23,15 +23,31 @@ const ranked=index.map(({s,n,alias,other,py,initial})=>{let rank=n===q?0:alias.i
 export function share(s    ,db          ,hard        ,label       ){const target=db.find(x=>x.id===s.answer) ;return `芙一把 ${label} ${hard?'困难':'简单'} ${s.guesses.includes(s.answer)?s.guesses.length:'X'}/8\n`+s.guesses.map((id       )=>keys(hard).map(k=>({exact:'🟩',partial:'🟨',miss:'⬜',unknown:'❔'})[compare(k,db.find(x=>x.id===id) [k],target[k])]).join('')).join('\n');}
 export function completeAcquisition(s    ){if(s.rarity===3&&s.acquisition?.includes('圣晶石常驻'))return {...s,acquisition:[...new Set([...s.acquisition,'友情点召唤'])]};return s;}
 
-// Keep source wording intact; normalize only the comparison labels.
-const regionAliases                      ={'不列颠':'英国','加勒比':'加勒比海','欧洲全域':'欧洲','西欧诸国':'西欧','美利坚合众国':'美国','北美大陆':'北美','古波斯':'波斯','古代以色列':'以色列'};
-const regionParents                        ={};
-for(const [parent,children] of Object.entries({欧洲:['英国','法国','德国','罗马','希腊','爱尔兰','匈牙利','丹麦','罗马尼亚','挪威','芬兰','北欧','西欧','西班牙','瑞士','乌克兰','意大利','马其顿'],英国:['英格兰','苏格兰','伦敦','雪伍德'],希腊:['斯巴达','科林斯'],北美:['美国','加拿大'],美国:['马萨诸塞'],西亚:['波斯','美索不达米亚','巴比伦尼亚','以色列','中东'],巴比伦尼亚:['乌鲁克'],东非:['埃塞俄比亚'],日本:['冬木市','信州户隐','姬路城','秋叶原','新宿','冲绳'],南亚:['印度']}))for(const child of children)(regionParents[child]??=[]).push(parent);
-export function loreTags(k       ,value    )         {
-const items=Array.isArray(value)?value:[value];let text=toSimple(items.map(norm).join('、')).replace(/\s+/g,' ').replace(/及び/g,'、');
-if(k==='origin')text=text.replace(/[『「《]([^』」》]+)[』」》]/g,'、$1、').replace(/(?:大仲马著|依据|能剧|歌剧|芭蕾舞剧)/g,'').replace(/史实[与及]异闻带/g,'史实、异闻带').replace(/史实·传承/g,'史实、传承');
-else text=text.replace(/[『「《』」》]/g,'').replace(/中国及日本/g,'中国、日本').replace(/中东及欧洲全域/g,'中东、欧洲').replace(/\d{4}年·/g,'');
-text=text.replace(/[（(]([^）)]+)[）)]/g,'、$1、');
-return [...new Set(text.split(k==='region'?/[、,，;；·・～~]/:/[、,，;；。]/).map(x=>x.trim().replace(/^(以及|主要是)/,'').replace(/(?:等等|等)[？?]?$/,'').replace(/[？?]+$/,'').trim()).filter(x=>x&&!/^(?:[-—―─]+|■+|不明|未知|其他|包裹在谜团当中|自称|史实……|三大化生之一|α)$/.test(x)).map(x=>k==='region'?(regionAliases[x]||x):x.replace(/\+α$/,'')))];
+
+                                                    
+                                                                                                                                          
+// Only configured, structured labels participate. Source text is never parsed or mutated here.
+export function loreValues(value    )            {
+if(!Array.isArray(value))return [];
+const valid=value.filter(x=>x&&typeof x==='object'&&typeof x.tag==='string'&&typeof x.macro==='string').map(x=>({macro:x.macro.trim(),tag:x.tag.trim()})).filter(x=>x.tag&&x.tag!=='未知'&&x.macro!=='未知');
+return [...new Map(valid.map(x=>[JSON.stringify(x),x])).values()];
 }
-function compareLore(k       ,a    ,b    )       {const aa=loreTags(k,a),bb=loreTags(k,b);if(!aa.length||!bb.length)return 'unknown';const same=JSON.stringify([...aa].sort())===JSON.stringify([...bb].sort());if(same)return 'exact';if(aa.some(x=>bb.includes(x)))return 'partial';if(k==='region'){const expand=(xs         )=>{const set=new Set(xs);for(const x of set)for(const parent of regionParents[x]||[])set.add(parent);return set;};const ax=expand(aa),bx=expand(bb);if([...ax].some(x=>bx.has(x)))return 'partial';}return 'miss';}
+export function compareLore(a    ,b    )       {
+const aa=loreValues(a),bb=loreValues(b);if(!aa.length||!bb.length)return 'unknown';
+const tags=(xs            )=>[...new Set(xs.map(x=>x.tag))].sort();const at=tags(aa),bt=tags(bb);
+if(JSON.stringify(at)===JSON.stringify(bt))return 'exact';
+if(at.some(t=>bt.includes(t))||aa.some(x=>x.macro&&bb.some(y=>y.macro===x.macro)))return 'partial';return 'miss';
+}
+export function formatLore(value    )       {
+const values=loreValues(value);if(!values.length)return '未知';
+const groups=new Map                 ();for(const {macro,tag}of values){if(!groups.has(macro))groups.set(macro,[]);if(!groups.get(macro) .includes(tag))groups.get(macro) .push(tag);}
+return [...groups].map(([macro,tags])=>{const detail=tags.filter(t=>t!==macro);return !macro?tags.join('/'):detail.length?macro+' · '+detail.join('/'):macro;}).join(' / ');
+}
+export function resolveLore(servant    ,field                  ,config         )            {
+const raw=servant.raw?.[field];const key=raw==null?'__NULL__':raw;
+const entry=config.overrides?.[servant.id]??(Object.hasOwn(config.exactInputs,key)?config.exactInputs[key]:undefined);
+const values=loreValues(entry?.values);return values.length?values:[{macro:'未知',tag:'未知'}];
+}
+export function applyTaxonomy(servant    ,regionTaxonomy         ,sourceTaxonomy         ){
+return {...servant,region:resolveLore(servant,'region',regionTaxonomy),origin:resolveLore(servant,'origin',sourceTaxonomy)};
+}

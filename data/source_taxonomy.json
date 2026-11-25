@@ -1,0 +1,5194 @@
+{
+  "schemaVersion": 2,
+  "status": "approved-local-not-published",
+  "field": "origin",
+  "description": "exactInputs.values 为原文到两级结构的权威映射，overrides 按从者编号优先。tokenMappings 为可核对的归并字典；修改字典后应同步 exactInputs，再运行 scripts/apply-taxonomy.mjs。原始 raw 字段不可改动。",
+  "tokenMappings": {
+    "史实": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "史实......": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "史记": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "汉书": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "明史": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北史": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北齐书": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "魏志倭人传": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "犹太古史": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "温泉关战役": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "信长公记": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "吾妻镜": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "甲阳军鉴末书结要本": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北越军谈": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "平家物语": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "平家物语"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持史实大类。"
+    },
+    "义经记": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "义经记"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持史实大类。"
+    },
+    "源平盛衰记": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "源平盛衰记"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持史实大类。"
+    },
+    "山中老人": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "山中老人"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持史实大类。"
+    },
+    "中东": {
+      "values": [],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "地域词、作者前缀或残留括号说明，不作为出处标签。"
+    },
+    "大仲马着": {
+      "values": [],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "地域词、作者前缀或残留括号说明，不作为出处标签。"
+    },
+    "维": {
+      "values": [],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "地域词、作者前缀或残留括号说明，不作为出处标签。"
+    },
+    "希腊神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "特洛伊战争": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "伊利亚特": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "奥德赛": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "罗马神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "罗马神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "凯尔特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿尔斯特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "费奥纳骑士团": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "赤枝骑士团": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北欧神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "尼伯龙根之歌": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "芬兰神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "芬兰神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "卡勒瓦拉史诗": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "芬兰神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "古代美索不达米亚神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "吉尔伽美什史诗": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "苏美尔文明": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "乌加里特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "腓尼基神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "印度神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "摩诃婆罗多": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "罗摩衍那": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北印度传承": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "南印度传𠄘": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中南美神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿兹特克神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿兹特克文明": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中南美各时代的神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "玛雅神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "日本神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "日本书纪": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "古事记": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿伊努神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "旧约圣经": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "新约圣经": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "琐罗亚斯德教": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "琐罗亚斯德教"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：宗教独立细分，不并入圣经。"
+    },
+    "黄金传说": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "日本的佛教": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "佛教"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：佛教独立细分，不并入圣经。"
+    },
+    "以诺书": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "创世记": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "圣乔治传说": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：圣经细分（创世记为旧约内容）。"
+    },
+    "波斯神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "波斯神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中国神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中国神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "斯拉夫神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "斯拉夫神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "澳大利亚原住民神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "澳大利亚原住民神话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "民间信仰": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "神话"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "亚瑟王传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "查理曼传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "查理曼传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "英国妖精史": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "不列颠岛妖精史": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "法国妖精史": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "梅柳齐娜传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "日本民间传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "御伽草子": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "清姬传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "酒吞童子绘卷": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "丑御前之地": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "铃鹿草子": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "田村三代记": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "俵藤太物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "宇治拾遗物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "小野小町传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "红叶传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "景清传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "鞍马天狗传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "安倍晴明物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "芦屋道满大内鉴": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "古净琉璃灯": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "今昔百鬼拾遗": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "义残后觉": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "华鸟百谈": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "黑姬物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "冲绳传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "伽婢子": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "俄罗斯英雄叙事诗": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "俄罗斯叙事诗"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "基辅歌圈": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "俄罗斯叙事诗"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中国民间传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "中国民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "徐福传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "中国民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "日耳曼民间传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "人鱼传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "莫扎特暗杀传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "拿破仑传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "圣殿骑士团的传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "传说故事": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "澳大利亚传说故事": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "澳大利亚传说故事"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "三国演义": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "三国演义"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "水浒传": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "水浒传"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "西游记": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "西游记"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "封神演义": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "封神演义"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "基督山伯爵": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "基督山伯爵"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "海底两万里": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "海底两万里"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "德古拉": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "德古拉"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "浮士德": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "浮士德"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "化身博士": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "化身博士"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "剧院魅影": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "剧院魅影"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "公平的羊皮纸": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "公平的羊皮纸"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "贝奥武夫": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "贝奥武夫"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：改归传说/民间故事。"
+    },
+    "灰衣男子": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "灰衣男子"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "威廉·退尔": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "威廉·退尔"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "莎乐美": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "莎乐美"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "巴": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "巴"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "帕西法尔": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "帕西法尔"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "堂·吉诃德": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "堂·吉诃德"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "椿说弓张月": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "椿说弓张月"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "仙后": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "仙后"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "庆安太平记": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "庆安太平记"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "王后的项链": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "王后的项链"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "胡桃夹子": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "胡桃夹子"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "神曲": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "神曲"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "英国童话": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "英国童话"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中世纪欧洲文学": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "中世纪欧洲文学"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "夏洛克·福尔摩斯系列": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "福尔摩斯"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "一千零一夜": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "一千零一夜"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿拉伯之夜": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "一千零一夜"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "创作": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "文学/创作"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "小说": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "文学/创作"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "大约一周的圣诞Alter小姐": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "2013年愚人节": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "万圣节回归!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "2018年情人节活动": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "万圣节·强袭!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "冥界的圣诞快乐": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "异闻带": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "宇宙守护者三部曲": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "荣光的圣诞老人之路": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "FGO Waltz联动": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "闪耀吧! 圣杯演唱会!!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "异闻带不列颠": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "万圣节·复活归来!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Making Chrismas Party!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "108人的万圣节·叛乱!": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "异闻带米克特兰": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "波赫约拉的圣诞前夜": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "往日夏天不应存在的幻影": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/EXTRA CCC": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/EXTRA系列": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/stay night": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/stay night"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/hollow ataraxia": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/stay night"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/kaleid liner 魔法少女☆伊莉雅": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法少女☆伊莉雅"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "君主·埃尔梅罗II世事件簿": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "君主·埃尔梅罗II世系列"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "君主·埃尔梅罗II世的冒险": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "君主·埃尔梅罗II世系列"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/Apocrypha": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Apocrypha"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/Requiem": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Requiem"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "Fate/Samurai Remnant": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Samurai Remnant"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "月姬": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "月姬"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "空之境界": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "空之境界"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "魔法使之夜": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法使之夜"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "魔法使之箱": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法使之箱"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    },
+    "TAKE MOON": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "TAKE MOON"
+        }
+      ],
+      "status": "approved",
+      "note": "沿用已验收v2归并口径。",
+      "proposalNote": "超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+    }
+  },
+  "exactInputs": {
+    "Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "亚瑟王传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        }
+      ],
+      "sourceTokens": [
+        "亚瑟王传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "尼伯龙根之歌": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "sourceTokens": [
+        "尼伯龙根之歌"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "__NULL__": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "苏美尔文明、吉尔伽美什史诗": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "sourceTokens": [
+        "苏美尔文明",
+        "吉尔伽美什史诗"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "希腊神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "波斯神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "波斯神话"
+        }
+      ],
+      "sourceTokens": [
+        "波斯神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "凯尔特神话、阿尔斯特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "凯尔特神话",
+        "阿尔斯特神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『义经记』『平家物语』": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "义经记"
+        },
+        {
+          "macro": "史实",
+          "tag": "平家物语"
+        }
+      ],
+      "sourceTokens": [
+        "义经记",
+        "平家物语"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "义经记：军记物语按用户要求暂挂史实；保留作品细分。",
+        "平家物语：军记物语按用户要求暂挂史实；保留作品细分。"
+      ]
+    },
+    "凯尔特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "凯尔特神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实（温泉关战役）": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "温泉关战役"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、罗马神话": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "罗马神话"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "罗马神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『黄金传说』『圣乔治传说』": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "黄金传说",
+        "圣乔治传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "圣乔治传说：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "史实、新约圣经": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "新约圣经"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『浮士德』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "浮士德"
+        }
+      ],
+      "sourceTokens": [
+        "浮士德"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『三国演义』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "三国演义"
+        }
+      ],
+      "sourceTokens": [
+        "三国演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中东、山中老人": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "山中老人"
+        },
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "中东",
+        "山中老人"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "中东：地域词、作者前缀或残留括号说明，不作为出处标签。",
+        "山中老人：哈桑出处保留山中老人；暂挂史实，分类待确认。"
+      ]
+    },
+    "『剧院魅影』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "剧院魅影"
+        }
+      ],
+      "sourceTokens": [
+        "剧院魅影"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『德古拉』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "德古拉"
+        }
+      ],
+      "sourceTokens": [
+        "德古拉"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『清姬传说』": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "清姬传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『公平的羊皮纸』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "公平的羊皮纸"
+        }
+      ],
+      "sourceTokens": [
+        "公平的羊皮纸"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate／EXTRA CCC": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/EXTRA CCC"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本神话。三大化生之一": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "sourceTokens": [
+        "日本神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "旧约圣经": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "旧约圣经"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "特洛伊战争": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "特洛伊战争"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "凯尔特神话、费奥纳骑士团": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "凯尔特神话",
+        "费奥纳骑士团"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "凯尔特神话、赤枝骑士团": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "凯尔特神话",
+        "赤枝骑士团"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "大约一周的圣诞Alter小姐": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "大约一周的圣诞Alter小姐"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国童话": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "英国童话"
+        }
+      ],
+      "sourceTokens": [
+        "英国童话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『化身博士』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "化身博士"
+        }
+      ],
+      "sourceTokens": [
+        "化身博士"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "创作": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "文学/创作"
+        }
+      ],
+      "sourceTokens": [
+        "创作"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "摩诃婆罗多": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "sourceTokens": [
+        "摩诃婆罗多"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "2013年愚人节": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "2013年愚人节"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "sourceTokens": [
+        "北欧神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "贝奥武夫": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "贝奥武夫"
+        }
+      ],
+      "sourceTokens": [
+        "贝奥武夫"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "贝奥武夫：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "空之境界": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "空之境界"
+        }
+      ],
+      "sourceTokens": [
+        "空之境界"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "查理曼传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "查理曼传说"
+        }
+      ],
+      "sourceTokens": [
+        "查理曼传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、吉尔伽美什史诗": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "吉尔伽美什史诗"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "大仲马著『基督山伯爵』？": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "基督山伯爵"
+        }
+      ],
+      "sourceTokens": [
+        "大仲马着",
+        "基督山伯爵"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "大仲马着：地域词、作者前缀或残留括号说明，不作为出处标签。"
+      ]
+    },
+    "罗摩衍那": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "sourceTokens": [
+        "罗摩衍那"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "琐罗亚斯德教": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "琐罗亚斯德教"
+        }
+      ],
+      "sourceTokens": [
+        "琐罗亚斯德教"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "─": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "—": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "御伽草子等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "御伽草子"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "「西游记」等": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "西游记"
+        }
+      ],
+      "sourceTokens": [
+        "西游记"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、依据『御伽草子』『丑御前之地』": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "御伽草子",
+        "丑御前之地"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、古净琉璃灯": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "古净琉璃灯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "俵藤太物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "俵藤太物语"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本神话。三大化生之一。": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        }
+      ],
+      "sourceTokens": [
+        "日本神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/kaleid liner 魔法少女☆伊莉雅": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法少女☆伊莉雅"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/kaleid liner 魔法少女☆伊莉雅"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "万圣节回归！": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "万圣节回归!"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实（史实……？）": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "史实......"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "古代美索不达米亚神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "sourceTokens": [
+        "古代美索不达米亚神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "吉尔伽美什史诗": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        }
+      ],
+      "sourceTokens": [
+        "吉尔伽美什史诗"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "阿兹特克神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "sourceTokens": [
+        "阿兹特克神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中南美各时代的神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "sourceTokens": [
+        "中南美各时代的神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "亚瑟王传说、其他": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        }
+      ],
+      "sourceTokens": [
+        "亚瑟王传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中东": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [
+        "中东"
+      ],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "中东：地域词、作者前缀或残留括号说明，不作为出处标签。"
+      ]
+    },
+    "2018年情人节活动": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "2018年情人节活动"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "夏洛克·福尔摩斯系列": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "福尔摩斯"
+        }
+      ],
+      "sourceTokens": [
+        "夏洛克·福尔摩斯系列"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "传承、史实、小说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        },
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "文学/创作"
+        }
+      ],
+      "sourceTokens": [
+        "传承",
+        "史实",
+        "小说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "传承：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "水浒传": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "水浒传"
+        }
+      ],
+      "sourceTokens": [
+        "水浒传"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/EXTRA CCC": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/EXTRA CCC"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "铃鹿草子、田村三代记，等等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "铃鹿草子",
+        "田村三代记"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "一千零一夜（阿拉伯之夜）": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "一千零一夜"
+        }
+      ],
+      "sourceTokens": [
+        "一千零一夜",
+        "阿拉伯之夜"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊神话、特洛伊战争": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "希腊神话",
+        "特洛伊战争"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        }
+      ],
+      "sourceTokens": [
+        "传承"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "传承：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "史实、『御伽草子』『丑御前之地』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "御伽草子",
+        "丑御前之地"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "印度神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "sourceTokens": [
+        "印度神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『甲阳军鉴末书结要本』『北越军谈』『伽婢子』": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "甲阳军鉴末书结要本",
+        "北越军谈",
+        "伽婢子"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "伽婢子：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "万圣节·强袭！": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "万圣节·强袭!"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『封神演义』、『西游记』等": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "封神演义"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "西游记"
+        }
+      ],
+      "sourceTokens": [
+        "封神演义",
+        "西游记"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "旧约圣经、新约圣经等": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "旧约圣经",
+        "新约圣经"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "冥界的圣诞快乐": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "冥界的圣诞快乐"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『灰衣男子』、莫扎特暗杀传说等": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "灰衣男子"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "灰衣男子",
+        "莫扎特暗杀传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实与异闻带": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "异闻带"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/Apocrypha": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Apocrypha"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/Apocrypha"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、拿破仑传说": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "拿破仑传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧神话、凯尔特神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "北欧神话",
+        "凯尔特神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "宇宙守护者三部曲": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "宇宙守护者三部曲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "阿伊努神话、北欧神话、芬兰神话等": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "芬兰神话"
+        }
+      ],
+      "sourceTokens": [
+        "阿伊努神话",
+        "北欧神话",
+        "芬兰神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "阿伊努神话：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "「御伽草子」等？": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "御伽草子"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实及异闻带": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "异闻带"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北史、北齐书": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "北史",
+        "北齐书"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "明史": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "明史"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史记、汉书": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史记",
+        "汉书"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、三国演义等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "三国演义"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "三国演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本民间传说、宇治拾遗物语等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "日本民间传说",
+        "宇治拾遗物语"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "三国演义等": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "三国演义"
+        }
+      ],
+      "sourceTokens": [
+        "三国演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『君主·埃尔梅罗Ⅱ世事件簿』": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "君主·埃尔梅罗II世系列"
+        }
+      ],
+      "sourceTokens": [
+        "君主·埃尔梅罗II世事件簿"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "―": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『威廉·退尔』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "威廉·退尔"
+        }
+      ],
+      "sourceTokens": [
+        "威廉·退尔"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、三国演义": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "三国演义"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "三国演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "新约圣经、『犹太古史』、『莎乐美』等": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        },
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "莎乐美"
+        }
+      ],
+      "sourceTokens": [
+        "新约圣经",
+        "犹太古史",
+        "莎乐美"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "古代美索不达米亚神话、旧约圣经、乌加里特神话、腓尼基神话等": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "美索不达米亚神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "古代美索不达米亚神话",
+        "旧约圣经",
+        "乌加里特神话",
+        "腓尼基神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "乌加里特神话：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "腓尼基神话：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "特洛伊战争、『伊利亚特』、『奥德赛』": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "特洛伊战争",
+        "伊利亚特",
+        "奥德赛"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "伊利亚特：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "奥德赛：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "罗马神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "罗马神话"
+        }
+      ],
+      "sourceTokens": [
+        "罗马神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/Requiem、史实": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Requiem"
+        },
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/Requiem",
+        "史实"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "红叶传说、Fate/Requiem": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Requiem"
+        }
+      ],
+      "sourceTokens": [
+        "红叶传说",
+        "Fate/Requiem"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/Requiem": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Requiem"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/Requiem"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "亚瑟王传说、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "亚瑟王传说",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "人鱼传说、今昔百鬼拾遗、": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "人鱼传说",
+        "今昔百鬼拾遗"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『平家物语』『源平盛衰记』、能剧『巴』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "平家物语"
+        },
+        {
+          "macro": "史实",
+          "tag": "源平盛衰记"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "巴"
+        }
+      ],
+      "sourceTokens": [
+        "平家物语",
+        "源平盛衰记",
+        "巴"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "平家物语：军记物语按用户要求暂挂史实；保留作品细分。",
+        "源平盛衰记：军记物语按用户要求暂挂史实；保留作品细分。"
+      ]
+    },
+    "魏志倭人传": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "魏志倭人传"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、希腊神话": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "希腊神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊神话、『海底两万里』": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "海底两万里"
+        }
+      ],
+      "sourceTokens": [
+        "希腊神话",
+        "海底两万里"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『宇治拾遗物语』『安倍晴明物语』『芦屋道满大内鉴』、阿兹特克神话、斯拉夫神话等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "斯拉夫神话"
+        }
+      ],
+      "sourceTokens": [
+        "宇治拾遗物语",
+        "安倍晴明物语",
+        "芦屋道满大内鉴",
+        "阿兹特克神话",
+        "斯拉夫神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "「酒吞童子绘卷」、御伽草子等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "酒吞童子绘卷",
+        "御伽草子"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "荣光的圣诞老人之路": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "荣光的圣诞老人之路"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『平家物语』、『义经记』、景清传说": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "平家物语"
+        },
+        {
+          "macro": "史实",
+          "tag": "义经记"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "平家物语",
+        "义经记",
+        "景清传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "平家物语：军记物语按用户要求暂挂史实；保留作品细分。",
+        "义经记：军记物语按用户要求暂挂史实；保留作品细分。"
+      ]
+    },
+    "『义经记』、御伽草子、鞍马天狗传说等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "义经记"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "义经记",
+        "御伽草子",
+        "鞍马天狗传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "义经记：军记物语按用户要求暂挂史实；保留作品细分。"
+      ]
+    },
+    "希腊神话、罗马神话、Fate/hollow ataraxia": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "罗马神话"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/stay night"
+        }
+      ],
+      "sourceTokens": [
+        "希腊神话",
+        "罗马神话",
+        "Fate/hollow ataraxia"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本民间传说、中国民间传说等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "中国民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "日本民间传说",
+        "中国民间传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "FGO Waltz{{修正|联动|原文=活动|原因=与日文直译明显不同}}『闪耀吧！ 圣杯演唱会！！』": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "FGO Waltz联动",
+        "闪耀吧! 圣杯演唱会!!"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "亚瑟王传说、英国妖精史、以及异闻带不列颠": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "亚瑟王传说",
+        "英国妖精史",
+        "异闻带不列颠"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国妖精史、以及异闻带不列颠": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "英国妖精史",
+        "异闻带不列颠"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "法国妖精史、梅柳齐娜传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "sourceTokens": [
+        "法国妖精史",
+        "梅柳齐娜传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "亚瑟王传说、歌剧『帕西法尔』等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "亚瑟王传说"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "帕西法尔"
+        }
+      ],
+      "sourceTokens": [
+        "亚瑟王传说",
+        "帕西法尔"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "不列颠岛妖精史": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        }
+      ],
+      "sourceTokens": [
+        "不列颠岛妖精史"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日耳曼民间传承、中世纪欧洲文学": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "中世纪欧洲文学"
+        }
+      ],
+      "sourceTokens": [
+        "日耳曼民间传承",
+        "中世纪欧洲文学"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实·传承（维）": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "传承",
+        "维"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "传承：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "维：地域词、作者前缀或残留括号说明，不作为出处标签。"
+      ]
+    },
+    "圣殿骑士团的传承、史实": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "欧洲民间传说"
+        },
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "圣殿骑士团的传承",
+        "史实"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "万圣节·复活归来！": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "万圣节·复活归来!"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、新约圣经、Making Chrismas Party！": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "新约圣经",
+        "Making Chrismas Party!"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『史记』『封神演义』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "封神演义"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "史记",
+        "封神演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "俄罗斯英雄叙事诗（基辅歌圈）": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "俄罗斯叙事诗"
+        }
+      ],
+      "sourceTokens": [
+        "俄罗斯英雄叙事诗",
+        "基辅歌圈"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『君主·埃尔梅罗Ⅱ世事件簿』": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "君主·埃尔梅罗II世系列"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "君主·埃尔梅罗II世事件簿"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "凯尔特神话、Fate/hollow ataraxia": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/stay night"
+        }
+      ],
+      "sourceTokens": [
+        "凯尔特神话",
+        "Fate/hollow ataraxia"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "传承、主要是日本的佛教、神话，以及民间信仰": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "佛教"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "神话"
+        }
+      ],
+      "sourceTokens": [
+        "传承",
+        "日本的佛教",
+        "神话",
+        "民间信仰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "传承：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "日本的佛教：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "神话：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "民间信仰：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "夏洛克·福尔摩斯系列、北欧神话": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "福尔摩斯"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "sourceTokens": [
+        "夏洛克·福尔摩斯系列",
+        "北欧神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『堂·吉诃德』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "堂·吉诃德"
+        }
+      ],
+      "sourceTokens": [
+        "堂·吉诃德"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『椿说弓张月』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "椿说弓张月"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "椿说弓张月"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "月姬": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "月姬"
+        }
+      ],
+      "sourceTokens": [
+        "月姬"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、徐福传说、日本书纪、中国神话": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "中国民间传说"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "中国神话"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "徐福传说",
+        "日本书纪",
+        "中国神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧神话、凯尔特神话、其他": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "凯尔特神话"
+        }
+      ],
+      "sourceTokens": [
+        "北欧神话",
+        "凯尔特神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、其他": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧神话、其他": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "北欧神话"
+        }
+      ],
+      "sourceTokens": [
+        "北欧神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "水浒传、希腊神话": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "水浒传"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "水浒传",
+        "希腊神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『封神演义』": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "封神演义"
+        }
+      ],
+      "sourceTokens": [
+        "封神演义"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "108人的万圣节·叛乱！、水浒传": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "水浒传"
+        }
+      ],
+      "sourceTokens": [
+        "108人的万圣节·叛乱!",
+        "水浒传"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『仙后』等、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "仙后"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "仙后",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、琐罗亚斯德教、澳大利亚传说故事、Fate/stay night": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "琐罗亚斯德教"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "澳大利亚传说故事"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/stay night"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "琐罗亚斯德教",
+        "澳大利亚传说故事",
+        "Fate/stay night"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "阿兹特克文明、中南美神话": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        }
+      ],
+      "sourceTokens": [
+        "阿兹特克文明",
+        "中南美神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "玛雅神话、异闻带米克特兰": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "中南美神话"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "玛雅神话",
+        "异闻带米克特兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "传说故事": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "传说故事"
+        }
+      ],
+      "sourceTokens": [
+        "传说故事"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "传说故事：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "新约圣经、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "新约圣经",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『义残后觉』『华鸟百谈』等": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "义残后觉",
+        "华鸟百谈"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "义残后觉：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。",
+        "华鸟百谈：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "包裹在谜团当中": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "澳大利亚原住民神话、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "澳大利亚原住民神话"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "澳大利亚原住民神话",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『信长公记』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "信长公记"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "古事记、日本书纪等，Fate/Samurai Remnant": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "日本神话"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Samurai Remnant"
+        }
+      ],
+      "sourceTokens": [
+        "古事记",
+        "日本书纪",
+        "Fate/Samurai Remnant"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『吾妻镜』『丑御前之地』等，Fate/Samurai Remnant": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Samurai Remnant"
+        }
+      ],
+      "sourceTokens": [
+        "吾妻镜",
+        "丑御前之地",
+        "Fate/Samurai Remnant"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『庆安太平记』等，Fate/Samurai Remnant": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "庆安太平记"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Samurai Remnant"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "庆安太平记",
+        "Fate/Samurai Remnant"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、Fate/Samurai Remnant": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Samurai Remnant"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "Fate/Samurai Remnant"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、大仲马著『王后的项链』等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "王后的项链"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "大仲马着",
+        "王后的项链"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "大仲马着：地域词、作者前缀或残留括号说明，不作为出处标签。"
+      ]
+    },
+    "魔法使之夜": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法使之夜"
+        }
+      ],
+      "sourceTokens": [
+        "魔法使之夜"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "魔法使之箱": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "魔法使之箱"
+        }
+      ],
+      "sourceTokens": [
+        "魔法使之箱"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "魔法使之箱：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "月姬、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "月姬"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "月姬",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、徐福传说": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "中国民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "徐福传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/EXTRA CCC、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/EXTRA CCC",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "Fate/EXTRA系列": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/EXTRA"
+        }
+      ],
+      "sourceTokens": [
+        "Fate/EXTRA系列"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "芬兰神话、卡勒瓦拉史诗": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "芬兰神话"
+        }
+      ],
+      "sourceTokens": [
+        "芬兰神话",
+        "卡勒瓦拉史诗"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、芭蕾舞剧『胡桃夹子』、\n　　　波赫约拉的圣诞前夜": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "胡桃夹子"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "胡桃夹子",
+        "波赫约拉的圣诞前夜"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "月姬、TAKE MOON": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "月姬"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "TAKE MOON"
+        }
+      ],
+      "sourceTokens": [
+        "月姬",
+        "TAKE MOON"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "TAKE MOON：超出指定的明确合并项，当前为编辑建议；可保留独立细分或调整大类。"
+      ]
+    },
+    "黑姬物语": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "黑姬物语"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、小野小町传说等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "小野小町传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、『神曲』": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "文学/创作",
+          "tag": "神曲"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "神曲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、以诺书等": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "以诺书"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实、北印度传承、南印度传𠄘": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "印度神话"
+        }
+      ],
+      "sourceTokens": [
+        "史实",
+        "北印度传承",
+        "南印度传𠄘"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "不明": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "往日夏天不应存在的幻影": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "往日夏天不应存在的幻影"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『海底两万里』、旧约圣经（创世记）": {
+      "values": [
+        {
+          "macro": "文学/创作",
+          "tag": "海底两万里"
+        },
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        }
+      ],
+      "sourceTokens": [
+        "海底两万里",
+        "旧约圣经",
+        "创世记"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "旧约圣经、Fate/Grand Order": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "圣经"
+        },
+        {
+          "macro": "型月原创",
+          "tag": "Fate/Grand Order"
+        }
+      ],
+      "sourceTokens": [
+        "旧约圣经",
+        "Fate/Grand Order"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本民间传说": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "日本民间传说"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊神話": {
+      "values": [
+        {
+          "macro": "神话/宗教",
+          "tag": "希腊神话"
+        }
+      ],
+      "sourceTokens": [
+        "希腊神话"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "史实+α": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        }
+      ],
+      "sourceTokens": [
+        "史实"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "■■■■": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "『君主·埃尔梅罗Ⅱ世事件簿』、\n　　　『君主·埃尔梅罗Ⅱ世的冒险』": {
+      "values": [
+        {
+          "macro": "型月原创",
+          "tag": "君主·埃尔梅罗II世系列"
+        }
+      ],
+      "sourceTokens": [
+        "君主·埃尔梅罗II世事件簿",
+        "君主·埃尔梅罗II世的冒险"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "不列颠岛妖精史、冲绳传承": {
+      "values": [
+        {
+          "macro": "传说/民间故事",
+          "tag": "妖精史"
+        },
+        {
+          "macro": "传说/民间故事",
+          "tag": "日本民间传说"
+        }
+      ],
+      "sourceTokens": [
+        "不列颠岛妖精史",
+        "冲绳传承"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    }
+  },
+  "overrides": {
+    "154": {
+      "values": [
+        {
+          "macro": "史实",
+          "tag": "史实"
+        },
+        {
+          "macro": "史实",
+          "tag": "山中老人"
+        }
+      ],
+      "notes": [
+        "按本轮哈桑系统一口径补充史实与山中老人；原出处仅为中东，属于人工建议，等待确认。"
+      ],
+      "status": "approved"
+    }
+  },
+  "inputNullKey": "__NULL__",
+  "unknown": [
+    {
+      "macro": "未知",
+      "tag": "未知"
+    }
+  ],
+  "validMacros": [
+    "型月原创",
+    "传说/民间故事",
+    "史实",
+    "神话/宗教",
+    "文学/创作"
+  ],
+  "version": "taxonomy-v2-final"
+}

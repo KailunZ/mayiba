@@ -32,10 +32,16 @@
       ]
     ],
     "region": [
-      "迦勒底"
+      {
+        "macro": "迦勒底",
+        "tag": "迦勒底"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -233,10 +239,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -410,10 +422,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -584,10 +602,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -760,10 +784,16 @@
       ]
     ],
     "region": [
-      "罗马"
+      {
+        "macro": "欧洲",
+        "tag": "罗马"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -933,10 +963,16 @@
       ]
     ],
     "region": [
-      "德国"
+      {
+        "macro": "欧洲",
+        "tag": "德国"
+      }
     ],
     "origin": [
-      "尼伯龙根之歌"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -1097,10 +1133,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -1268,10 +1310,20 @@
       ]
     ],
     "region": [
-      "中亚～欧洲"
+      {
+        "macro": "中亚",
+        "tag": "中亚"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -1429,10 +1481,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -1586,10 +1644,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -1745,8 +1809,18 @@
         "全体"
       ]
     ],
-    "region": null,
-    "origin": null,
+    "region": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
+    "origin": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
     "cn": true,
     "cnDate": null,
     "cnEvidence": "https://fgo.wiki/w/Mooncell:Gameinfo/国服/灵基一览",
@@ -1917,12 +1991,16 @@
       ]
     ],
     "region": [
-      "巴比伦尼亚",
-      "乌鲁克"
+      {
+        "macro": "西亚",
+        "tag": "巴比伦尼亚"
+      }
     ],
     "origin": [
-      "苏美尔文明",
-      "吉尔伽美什史诗"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2087,11 +2165,16 @@
       ]
     ],
     "region": [
-      "英国",
-      "雪伍德"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2246,10 +2329,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2406,10 +2495,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2568,10 +2663,16 @@
       ]
     ],
     "region": [
-      "西亚"
+      {
+        "macro": "西亚",
+        "tag": "西亚"
+      }
     ],
     "origin": [
-      "波斯神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "波斯神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2732,11 +2833,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "阿尔斯特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -2898,10 +3004,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3061,10 +3173,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『义经记』『平家物语』"
+      {
+        "macro": "史实",
+        "tag": "义经记"
+      },
+      {
+        "macro": "史实",
+        "tag": "平家物语"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3226,10 +3348,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3396,10 +3524,16 @@
       ]
     ],
     "region": [
-      "斯巴达"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "史实（温泉关战役）"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3557,11 +3691,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "罗马神话"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "罗马神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3714,11 +3857,16 @@
       ]
     ],
     "region": [
-      "希腊",
-      "无形之岛"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -3879,10 +4027,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "『黄金传说』『圣乔治传说』"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4041,10 +4195,16 @@
       ]
     ],
     "region": [
-      "加勒比海"
+      {
+        "macro": "美洲",
+        "tag": "加勒比海"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4211,10 +4371,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4370,10 +4536,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『义经记』『平家物语』"
+      {
+        "macro": "史实",
+        "tag": "义经记"
+      },
+      {
+        "macro": "史实",
+        "tag": "平家物语"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4532,10 +4708,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4693,10 +4875,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -4855,11 +5043,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "新约圣经"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5013,11 +5210,16 @@
       ]
     ],
     "region": [
-      "希腊",
-      "科林斯"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5173,10 +5375,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5331,10 +5539,16 @@
       ]
     ],
     "region": [
-      "丹麦"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5501,10 +5715,16 @@
       ]
     ],
     "region": [
-      "英格兰"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5666,10 +5886,16 @@
       ]
     ],
     "region": [
-      "德国"
+      {
+        "macro": "欧洲",
+        "tag": "德国"
+      }
     ],
     "origin": [
-      "『浮士德』"
+      {
+        "macro": "文学/创作",
+        "tag": "浮士德"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5827,10 +6053,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -5996,10 +6228,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "『三国演义』"
+      {
+        "macro": "文学/创作",
+        "tag": "三国演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6168,10 +6406,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6333,10 +6577,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6500,11 +6750,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东",
-      "山中老人"
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6663,10 +6922,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6821,10 +7086,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -6977,10 +7248,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7142,10 +7419,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "『剧院魅影』"
+      {
+        "macro": "文学/创作",
+        "tag": "剧院魅影"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7302,10 +7585,20 @@
       ]
     ],
     "region": [
-      "法国～德国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "德国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7460,10 +7753,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7617,10 +7916,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7776,10 +8081,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -7933,10 +8244,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8089,10 +8406,16 @@
       ]
     ],
     "region": [
-      "罗马"
+      {
+        "macro": "欧洲",
+        "tag": "罗马"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8256,10 +8579,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8418,10 +8747,16 @@
       ]
     ],
     "region": [
-      "罗马尼亚"
+      {
+        "macro": "欧洲",
+        "tag": "罗马尼亚"
+      }
     ],
     "origin": [
-      "『德古拉』"
+      {
+        "macro": "文学/创作",
+        "tag": "德古拉"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8584,10 +8919,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8752,10 +9093,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -8915,10 +9262,16 @@
       ]
     ],
     "region": [
-      "西亚"
+      {
+        "macro": "西亚",
+        "tag": "西亚"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9075,10 +9428,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『清姬传说』"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9231,10 +9590,20 @@
       ]
     ],
     "region": [
-      "挪威～英格兰"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "『公平的羊皮纸』"
+      {
+        "macro": "文学/创作",
+        "tag": "公平的羊皮纸"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9392,10 +9761,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate／EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9555,10 +9930,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9717,10 +10098,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -9878,10 +10265,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10046,10 +10439,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本神话。三大化生之一"
+      {
+        "macro": "神话/宗教",
+        "tag": "日本神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10210,10 +10609,16 @@
       ]
     ],
     "region": [
-      "以色列"
+      {
+        "macro": "西亚",
+        "tag": "以色列"
+      }
     ],
     "origin": [
-      "旧约圣经"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10372,10 +10777,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "特洛伊战争"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10531,10 +10942,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10693,10 +11110,16 @@
       ]
     ],
     "region": [
-      "加勒比"
+      {
+        "macro": "美洲",
+        "tag": "加勒比海"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -10861,10 +11284,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11024,10 +11453,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11187,10 +11622,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11343,10 +11784,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11509,11 +11956,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "费奥纳骑士团"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11675,11 +12127,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "赤枝骑士团"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -11843,10 +12300,16 @@
       ]
     ],
     "region": [
-      "芬兰（自称）"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      }
     ],
     "origin": [
-      "大约一周的圣诞Alter小姐"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12016,10 +12479,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "英国童话"
+      {
+        "macro": "文学/创作",
+        "tag": "英国童话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12176,10 +12645,16 @@
       ]
     ],
     "region": [
-      "伦敦"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12341,10 +12816,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12510,10 +12991,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12670,10 +13157,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -12847,10 +13340,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13015,10 +13514,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13177,10 +13682,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "『化身博士』"
+      {
+        "macro": "文学/创作",
+        "tag": "化身博士"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13345,10 +13856,16 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "创作"
+      {
+        "macro": "文学/创作",
+        "tag": "文学/创作"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13504,10 +14021,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13664,10 +14187,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13831,10 +14360,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "2013年愚人节"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -13997,10 +14532,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14158,10 +14699,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14319,10 +14866,16 @@
       ]
     ],
     "region": [
-      "北欧"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      }
     ],
     "origin": [
-      "贝奥武夫"
+      {
+        "macro": "传说/民间故事",
+        "tag": "贝奥武夫"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14478,10 +15031,16 @@
       ]
     ],
     "region": [
-      "罗马"
+      {
+        "macro": "欧洲",
+        "tag": "罗马"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14646,9 +15205,17 @@
         "全体"
       ]
     ],
-    "region": null,
+    "region": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
     "origin": [
-      "空之境界"
+      {
+        "macro": "型月原创",
+        "tag": "空之境界"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14811,9 +15378,17 @@
         "单体"
       ]
     ],
-    "region": null,
+    "region": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
     "origin": [
-      "空之境界"
+      {
+        "macro": "型月原创",
+        "tag": "空之境界"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -14968,10 +15543,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15127,10 +15708,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15291,11 +15878,20 @@
       ]
     ],
     "region": [
-      "西亚"
+      {
+        "macro": "西亚",
+        "tag": "西亚"
+      }
     ],
     "origin": [
-      "史实",
-      "吉尔伽美什史诗"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15451,10 +16047,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "大仲马著『基督山伯爵』？"
+      {
+        "macro": "文学/创作",
+        "tag": "基督山伯爵"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15611,10 +16213,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15767,10 +16375,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -15936,10 +16550,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16098,10 +16718,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16263,10 +16889,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "罗摩衍那"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16422,10 +17054,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16576,10 +17214,16 @@
       ]
     ],
     "region": [
-      "北美"
+      {
+        "macro": "美洲",
+        "tag": "北美"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16734,10 +17378,16 @@
       ]
     ],
     "region": [
-      "北美"
+      {
+        "macro": "美洲",
+        "tag": "北美"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -16892,10 +17542,16 @@
       ]
     ],
     "region": [
-      "北美"
+      {
+        "macro": "美洲",
+        "tag": "北美"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -17049,10 +17705,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -17212,10 +17874,16 @@
       ]
     ],
     "region": [
-      "古波斯"
+      {
+        "macro": "西亚",
+        "tag": "波斯"
+      }
     ],
     "origin": [
-      "琐罗亚斯德教"
+      {
+        "macro": "神话/宗教",
+        "tag": "琐罗亚斯德教"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -17363,8 +18031,18 @@
         "全体"
       ]
     ],
-    "region": null,
-    "origin": null,
+    "region": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
+    "origin": [
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
+    ],
     "cn": true,
     "cnDate": null,
     "cnEvidence": "https://fgo.wiki/w/Mooncell:Gameinfo/国服/灵基一览",
@@ -17523,10 +18201,16 @@
       ]
     ],
     "region": [
-      "远东"
+      {
+        "macro": "东亚",
+        "tag": "远东"
+      }
     ],
     "origin": [
-      "─"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -17690,11 +18374,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东",
-      "山中老人"
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -17847,10 +18540,16 @@
       ]
     ],
     "region": [
-      "—"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "—"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18007,10 +18706,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "御伽草子等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18172,10 +18877,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "「西游记」等"
+      {
+        "macro": "文学/创作",
+        "tag": "西游记"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18330,11 +19041,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "依据『御伽草子』『丑御前之地』"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18491,11 +19211,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "古净琉璃灯"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18650,10 +19379,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "御伽草子等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18806,10 +19541,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -18965,10 +19706,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19130,10 +19877,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19296,10 +20049,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19458,10 +20217,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19623,10 +20388,16 @@
       ]
     ],
     "region": [
-      "不列颠"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19788,10 +20559,16 @@
       ]
     ],
     "region": [
-      "不列颠"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -19954,11 +20731,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东",
-      "山中老人"
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20113,10 +20899,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "俵藤太物语"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20271,10 +21063,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20434,10 +21232,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20598,10 +21402,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本神话。三大化生之一。"
+      {
+        "macro": "神话/宗教",
+        "tag": "日本神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20760,10 +21570,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -20924,10 +21740,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21085,10 +21907,16 @@
       ]
     ],
     "region": [
-      "加勒比"
+      {
+        "macro": "美洲",
+        "tag": "加勒比海"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21250,10 +22078,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21414,10 +22248,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21569,10 +22409,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『清姬传说』"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21724,11 +22570,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "新约圣经"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -21883,10 +22738,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22059,10 +22920,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22220,10 +23087,16 @@
       ]
     ],
     "region": [
-      "监狱城恰赫季斯"
+      {
+        "macro": "监狱城恰赫季斯",
+        "tag": "监狱城恰赫季斯"
+      }
     ],
     "origin": [
-      "万圣节回归！"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22388,10 +23261,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22549,10 +23428,16 @@
       ]
     ],
     "region": [
-      "罗马尼亚"
+      {
+        "macro": "欧洲",
+        "tag": "罗马尼亚"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22710,10 +23595,16 @@
       ]
     ],
     "region": [
-      "圣诞岛（自称）"
+      {
+        "macro": "大洋洲",
+        "tag": "圣诞岛"
+      }
     ],
     "origin": [
-      "史实（史实……？）"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -22885,10 +23776,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23049,10 +23946,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "吉尔伽美什史诗"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23205,10 +24108,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "阿兹特克神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23368,12 +24277,16 @@
       ]
     ],
     "region": [
-      "巴比伦尼亚",
-      "乌鲁克"
+      {
+        "macro": "西亚",
+        "tag": "巴比伦尼亚"
+      }
     ],
     "origin": [
-      "苏美尔文明",
-      "吉尔伽美什史诗"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23537,10 +24450,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23699,10 +24618,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -23859,10 +24784,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "中南美各时代的神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24018,11 +24949,16 @@
       ]
     ],
     "region": [
-      "西欧诸国"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "其他"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24184,10 +25120,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24342,10 +25284,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24499,10 +25451,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "2018年情人节活动"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24674,10 +25632,16 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "夏洛克·福尔摩斯系列"
+      {
+        "macro": "文学/创作",
+        "tag": "福尔摩斯"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -24845,10 +25809,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25006,12 +25976,24 @@
       ]
     ],
     "region": [
-      "美国"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      }
     ],
     "origin": [
-      "传承",
-      "史实",
-      "小说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "文学/创作"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25176,10 +26158,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "水浒传"
+      {
+        "macro": "文学/创作",
+        "tag": "水浒传"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25346,10 +26334,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25524,10 +26518,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25682,10 +26682,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -25835,10 +26841,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26006,10 +27018,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26186,12 +27204,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "铃鹿草子",
-      "田村三代记",
-      "等等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26347,10 +27369,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26499,10 +27527,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26660,10 +27694,16 @@
       ]
     ],
     "region": [
-      "波斯"
+      {
+        "macro": "西亚",
+        "tag": "波斯"
+      }
     ],
     "origin": [
-      "一千零一夜（阿拉伯之夜）"
+      {
+        "macro": "文学/创作",
+        "tag": "一千零一夜"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -26831,10 +27871,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27008,11 +28054,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话",
-      "特洛伊战争"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27183,10 +28234,16 @@
       ]
     ],
     "region": [
-      "西班牙"
+      {
+        "macro": "欧洲",
+        "tag": "西班牙"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27354,11 +28411,20 @@
       ]
     ],
     "region": [
-      "英国",
-      "全世界"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      },
+      {
+        "macro": "地球",
+        "tag": "地球"
+      }
     ],
     "origin": [
-      "夏洛克·福尔摩斯系列"
+      {
+        "macro": "文学/创作",
+        "tag": "福尔摩斯"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27510,11 +28576,20 @@
       ]
     ],
     "region": [
-      "美国",
-      "加拿大"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      },
+      {
+        "macro": "美洲",
+        "tag": "加拿大"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27680,10 +28755,16 @@
       ]
     ],
     "region": [
-      "罗马"
+      {
+        "macro": "欧洲",
+        "tag": "罗马"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -27849,10 +28930,16 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "创作"
+      {
+        "macro": "文学/创作",
+        "tag": "文学/创作"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28005,10 +29092,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28168,10 +29261,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28327,10 +29426,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28503,10 +29608,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28667,11 +29778,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "『御伽草子』『丑御前之地』等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28824,10 +29944,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -28986,10 +30112,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29146,10 +30278,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29327,10 +30465,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29505,10 +30649,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29661,10 +30811,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29827,11 +30983,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "『甲阳军鉴末书结要本』『北越军谈』『伽婢子』"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -29985,10 +31150,16 @@
       ]
     ],
     "region": [
-      "日本（姬路城）"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30150,10 +31321,16 @@
       ]
     ],
     "region": [
-      "监狱城恰赫季斯"
+      {
+        "macro": "监狱城恰赫季斯",
+        "tag": "监狱城恰赫季斯"
+      }
     ],
     "origin": [
-      "万圣节·强袭！"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30309,10 +31486,16 @@
       ]
     ],
     "region": [
-      "监狱城恰赫季斯"
+      {
+        "macro": "监狱城恰赫季斯",
+        "tag": "监狱城恰赫季斯"
+      }
     ],
     "origin": [
-      "万圣节·强袭！"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30471,10 +31654,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30646,11 +31835,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "『封神演义』",
-      "『西游记』等"
+      {
+        "macro": "文学/创作",
+        "tag": "封神演义"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "西游记"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30804,12 +32002,20 @@
       ]
     ],
     "region": [
-      "东非",
-      "阿拉伯半岛西南部"
+      {
+        "macro": "非洲",
+        "tag": "东非"
+      },
+      {
+        "macro": "西亚",
+        "tag": "阿拉伯半岛"
+      }
     ],
     "origin": [
-      "旧约圣经",
-      "新约圣经等"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -30969,10 +32175,16 @@
       ]
     ],
     "region": [
-      "北美·马萨诸塞"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31136,10 +32348,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31302,10 +32520,16 @@
       ]
     ],
     "region": [
-      "芬兰（自称）"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      }
     ],
     "origin": [
-      "冥界的圣诞快乐"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31476,10 +32700,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31637,10 +32867,16 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31796,10 +33032,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "空之境界"
+      {
+        "macro": "型月原创",
+        "tag": "空之境界"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -31952,10 +33194,16 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32105,10 +33353,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32270,10 +33524,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32429,11 +33689,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "『灰衣男子』",
-      "莫扎特暗杀传说等"
+      {
+        "macro": "文学/创作",
+        "tag": "灰衣男子"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "欧洲民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32593,10 +33862,20 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "史实与异闻带"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32753,10 +34032,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -32918,10 +34203,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33076,10 +34367,16 @@
       ]
     ],
     "region": [
-      "罗马尼亚"
+      {
+        "macro": "欧洲",
+        "tag": "罗马尼亚"
+      }
     ],
     "origin": [
-      "Fate/Apocrypha"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Apocrypha"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33228,10 +34525,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33408,10 +34711,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33568,10 +34877,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33733,11 +35048,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "拿破仑传说"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "欧洲民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -33890,10 +35214,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34056,10 +35386,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34216,11 +35552,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话",
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34384,10 +35729,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34538,10 +35889,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "御伽草子等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34695,10 +36052,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『义经记』『平家物语』"
+      {
+        "macro": "史实",
+        "tag": "义经记"
+      },
+      {
+        "macro": "史实",
+        "tag": "平家物语"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -34859,10 +36226,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35019,10 +36392,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35182,10 +36561,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35337,10 +36722,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "宇宙守护者三部曲"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35505,11 +36896,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "费奥纳骑士团"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35664,12 +37060,24 @@
       ]
     ],
     "region": [
-      "-"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "阿伊努神话",
-      "北欧神话",
-      "芬兰神话等"
+      {
+        "macro": "神话/宗教",
+        "tag": "日本神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "芬兰神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35827,10 +37235,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "「御伽草子」等？"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -35985,10 +37399,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实及异闻带"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36143,11 +37567,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "北史",
-      "北齐书"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36299,10 +37728,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "明史"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36451,10 +37886,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实及异闻带"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36603,11 +38048,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史记",
-      "汉书"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36765,11 +38215,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实",
-      "三国演义等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "三国演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -36921,10 +38380,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37083,10 +38548,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "阿兹特克神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37256,11 +38727,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本民间传说",
-      "宇治拾遗物语等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37412,10 +38888,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37574,10 +39056,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37741,10 +39229,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -37891,10 +39385,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38064,10 +39564,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38241,10 +39747,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "三国演义等"
+      {
+        "macro": "文学/创作",
+        "tag": "三国演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38401,10 +39913,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38566,10 +40084,16 @@
       ]
     ],
     "region": [
-      "英国等"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "『君主·埃尔梅罗Ⅱ世事件簿』"
+      {
+        "macro": "型月原创",
+        "tag": "君主·埃尔梅罗II世系列"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38724,10 +40248,16 @@
       ]
     ],
     "region": [
-      "―"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "―"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -38897,10 +40427,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39056,10 +40592,16 @@
       ]
     ],
     "region": [
-      "瑞士"
+      {
+        "macro": "欧洲",
+        "tag": "瑞士"
+      }
     ],
     "origin": [
-      "『威廉·退尔』"
+      {
+        "macro": "文学/创作",
+        "tag": "威廉·退尔"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39209,10 +40751,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39384,10 +40932,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39537,10 +41091,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39700,10 +41260,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -39872,10 +41438,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40022,10 +41594,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40177,11 +41755,20 @@
       ]
     ],
     "region": [
-      "2018年·南极"
+      {
+        "macro": "迦勒底",
+        "tag": "迦勒底"
+      }
     ],
     "origin": [
-      "史实",
-      "Fate/Grand Order"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40341,10 +41928,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40498,10 +42091,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "特洛伊战争"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40651,10 +42250,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40803,10 +42408,16 @@
       ]
     ],
     "region": [
-      "加勒比海"
+      {
+        "macro": "美洲",
+        "tag": "加勒比海"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -40964,11 +42575,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实",
-      "三国演义"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "三国演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41112,10 +42732,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41265,12 +42891,24 @@
       ]
     ],
     "region": [
-      "以色列"
+      {
+        "macro": "西亚",
+        "tag": "以色列"
+      }
     ],
     "origin": [
-      "新约圣经",
-      "『犹太古史』",
-      "『莎乐美』等"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "莎乐美"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41417,10 +43055,16 @@
       ]
     ],
     "region": [
-      "异邦异闻带"
+      {
+        "macro": "异邦异闻带",
+        "tag": "异邦异闻带"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41578,10 +43222,16 @@
       ]
     ],
     "region": [
-      "日本（姬路城）"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41731,10 +43381,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -41885,10 +43541,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42039,10 +43701,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42210,10 +43878,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42381,10 +44055,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42563,13 +44243,20 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话",
-      "旧约圣经",
-      "乌加里特神话",
-      "腓尼基神话等"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42738,10 +44425,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -42888,10 +44581,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43045,10 +44744,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43200,10 +44905,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43355,10 +45066,16 @@
       ]
     ],
     "region": [
-      "西欧"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43515,10 +45232,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43667,10 +45390,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43824,10 +45553,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -43975,12 +45710,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "特洛伊战争",
-      "『伊利亚特』",
-      "『奥德赛』"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44145,10 +45884,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44309,10 +46054,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44465,10 +46216,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "罗马神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "罗马神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44627,11 +46384,20 @@
       ]
     ],
     "region": [
-      "北美·美利坚合众国"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      }
     ],
     "origin": [
-      "Fate/Requiem",
-      "史实"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Requiem"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44786,11 +46552,20 @@
       ]
     ],
     "region": [
-      "日本·信州户隐"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "红叶传说",
-      "Fate/Requiem"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Requiem"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -44945,11 +46720,16 @@
       ]
     ],
     "region": [
-      "日本·马赛克市『秋叶原』",
-      "『新宿』"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/Requiem"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Requiem"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45104,11 +46884,20 @@
       ]
     ],
     "region": [
-      "潮声的廷塔杰尔"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "Fate/Grand Order"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45273,12 +47062,20 @@
       ]
     ],
     "region": [
-      "日本",
-      "海底某处"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "人鱼传说",
-      "今昔百鬼拾遗"
+      {
+        "macro": "传说/民间故事",
+        "tag": "欧洲民间传说"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45440,10 +47237,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45608,10 +47411,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45765,11 +47574,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史记",
-      "汉书"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -45924,10 +47738,16 @@
       ]
     ],
     "region": [
-      "北美·马萨诸塞"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46089,11 +47909,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『平家物语』『源平盛衰记』",
-      "能剧『巴』等"
+      {
+        "macro": "史实",
+        "tag": "平家物语"
+      },
+      {
+        "macro": "史实",
+        "tag": "源平盛衰记"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "巴"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46250,10 +48083,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46406,10 +48245,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魏志倭人传"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46561,10 +48406,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46720,10 +48571,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -46874,11 +48731,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "希腊神话"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47032,12 +48898,24 @@
       ]
     ],
     "region": [
-      "欧洲",
-      "印度"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      },
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "希腊神话",
-      "『海底两万里』"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "海底两万里"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47194,12 +49072,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『宇治拾遗物语』『安倍晴明物语』『芦屋道满大内鉴』",
-      "阿兹特克神话",
-      "斯拉夫神话等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "斯拉夫神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47356,10 +49246,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47513,11 +49409,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "「酒吞童子绘卷」",
-      "御伽草子等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47681,10 +49582,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -47845,10 +49752,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "荣光的圣诞老人之路"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48009,10 +49922,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48169,12 +50088,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『平家物语』",
-      "『义经记』",
-      "景清传说"
+      {
+        "macro": "史实",
+        "tag": "平家物语"
+      },
+      {
+        "macro": "史实",
+        "tag": "义经记"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48326,12 +50257,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『义经记』",
-      "御伽草子",
-      "鞍马天狗传说等"
+      {
+        "macro": "史实",
+        "tag": "义经记"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48482,13 +50421,28 @@
       ]
     ],
     "region": [
-      "地中海",
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "地中海"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话",
-      "罗马神话",
-      "Fate/hollow ataraxia"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "罗马神话"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/stay night"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48666,10 +50620,20 @@
       ]
     ],
     "region": [
-      "希腊·塞浦路斯岛"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "塞浦路斯"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48820,11 +50784,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本民间传说",
-      "中国民间传说等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "中国民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -48978,10 +50951,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "FGO Waltz联动『闪耀吧！ 圣杯演唱会！！』"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -49148,12 +51127,24 @@
       ]
     ],
     "region": [
-      "止境的奥克尼"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "英国妖精史",
-      "以及异闻带不列颠"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -49308,11 +51299,20 @@
       ]
     ],
     "region": [
-      "妖精国·牛津"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "英国妖精史",
-      "以及异闻带不列颠"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -49484,11 +51484,20 @@
       ]
     ],
     "region": [
-      "妖精国·达灵顿附近"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "英国妖精史",
-      "以及异闻带不列颠"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -49671,11 +51680,16 @@
       ]
     ],
     "region": [
-      "昏暗沼泽"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "法国妖精史",
-      "梅柳齐娜传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -49870,11 +51884,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "歌剧『帕西法尔』等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "帕西法尔"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50038,10 +52061,16 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50211,10 +52240,16 @@
       ]
     ],
     "region": [
-      "苏格兰"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "不列颠岛妖精史"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50378,11 +52413,20 @@
       ]
     ],
     "region": [
-      "妖精国不列颠"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "日耳曼民间传承",
-      "中世纪欧洲文学"
+      {
+        "macro": "传说/民间故事",
+        "tag": "欧洲民间传说"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "中世纪欧洲文学"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50558,10 +52602,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50727,10 +52777,20 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "史实·传承（维）"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -50887,10 +52947,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51045,11 +53111,20 @@
       ]
     ],
     "region": [
-      "2018年·南极"
+      {
+        "macro": "迦勒底",
+        "tag": "迦勒底"
+      }
     ],
     "origin": [
-      "史实",
-      "Fate/Grand Order"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51211,10 +53286,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51385,10 +53466,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51547,10 +53634,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51703,13 +53796,28 @@
       ]
     ],
     "region": [
-      "欧洲",
-      "塞浦路斯",
-      "叙利亚地域的十字军国家"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "塞浦路斯"
+      },
+      {
+        "macro": "西亚",
+        "tag": "叙利亚"
+      }
     ],
     "origin": [
-      "圣殿骑士团的传承",
-      "史实"
+      {
+        "macro": "传说/民间故事",
+        "tag": "欧洲民间传说"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -51873,10 +53981,16 @@
       ]
     ],
     "region": [
-      "巴尔米拉帝国"
+      {
+        "macro": "西亚",
+        "tag": "巴尔米拉"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52031,10 +54145,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "万圣节·复活归来！"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52203,10 +54323,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52362,10 +54488,16 @@
       ]
     ],
     "region": [
-      "兰丸星"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52524,10 +54656,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52693,12 +54831,24 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "新约圣经",
-      "Making Chrismas Party！"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -52857,11 +55007,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实",
-      "『史记』『封神演义』等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "封神演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53020,11 +55179,20 @@
       ]
     ],
     "region": [
-      "俄罗斯",
-      "乌克兰"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "乌克兰"
+      }
     ],
     "origin": [
-      "俄罗斯英雄叙事诗（基辅歌圈）"
+      {
+        "macro": "传说/民间故事",
+        "tag": "俄罗斯叙事诗"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53195,10 +55363,16 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53361,11 +55535,20 @@
       ]
     ],
     "region": [
-      "马其顿"
+      {
+        "macro": "欧洲",
+        "tag": "马其顿"
+      }
     ],
     "origin": [
-      "史实",
-      "『君主·埃尔梅罗Ⅱ世事件簿』"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "君主·埃尔梅罗II世系列"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53523,11 +55706,20 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "Fate/hollow ataraxia"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/stay night"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53708,10 +55900,16 @@
       ]
     ],
     "region": [
-      "越南"
+      {
+        "macro": "东南亚",
+        "tag": "越南"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -53873,10 +56071,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54037,11 +56241,20 @@
       ]
     ],
     "region": [
-      "北美大陆（美国",
-      "加拿大）"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      },
+      {
+        "macro": "美洲",
+        "tag": "加拿大"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54208,13 +56421,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "传承",
-      "主要是日本的佛教",
-      "神话",
-      "以及民间信仰"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "佛教"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54371,10 +56595,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54527,10 +56757,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54694,10 +56930,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -54856,10 +57098,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "查理曼传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "查理曼传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55014,10 +57262,16 @@
       ]
     ],
     "region": [
-      "德国"
+      {
+        "macro": "欧洲",
+        "tag": "德国"
+      }
     ],
     "origin": [
-      "尼伯龙根之歌"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55175,11 +57429,20 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "夏洛克·福尔摩斯系列",
-      "北欧神话"
+      {
+        "macro": "文学/创作",
+        "tag": "福尔摩斯"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55346,10 +57609,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "『堂·吉诃德』"
+      {
+        "macro": "文学/创作",
+        "tag": "堂·吉诃德"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55510,11 +57779,20 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实",
-      "三国演义"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "三国演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55672,10 +57950,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55834,11 +58118,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "『椿说弓张月』等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "椿说弓张月"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -55992,10 +58285,20 @@
       ]
     ],
     "region": [
-      "地球整体（出现地为欧洲）"
+      {
+        "macro": "地球",
+        "tag": "地球"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "月姬"
+      {
+        "macro": "型月原创",
+        "tag": "月姬"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56171,13 +58474,32 @@
       ]
     ],
     "region": [
-      "中国及日本"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      },
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "徐福传说",
-      "日本书纪",
-      "中国神话"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "中国民间传说"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "日本神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "中国神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56330,11 +58652,16 @@
       ]
     ],
     "region": [
-      "西欧诸国"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "其他"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56491,11 +58818,16 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "其他"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56651,11 +58983,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "「酒吞童子绘卷」",
-      "御伽草子等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56824,11 +59161,16 @@
       ]
     ],
     "region": [
-      "日本·马赛克市『秋叶原』",
-      "『新宿』"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/Requiem"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Requiem"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -56987,12 +59329,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话",
-      "凯尔特神话",
-      "其他"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57156,11 +59506,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "史实",
-      "其他"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57317,11 +59672,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话",
-      "其他"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57485,11 +59845,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话",
-      "其他"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57653,11 +60018,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "北欧神话",
-      "其他"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57822,10 +60192,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -57986,10 +60362,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58143,10 +60525,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魏志倭人传"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58305,12 +60693,24 @@
       ]
     ],
     "region": [
-      "中国",
-      "希腊"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "水浒传",
-      "希腊神话"
+      {
+        "macro": "文学/创作",
+        "tag": "水浒传"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58472,10 +60872,16 @@
       ]
     ],
     "region": [
-      "中国"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "『封神演义』"
+      {
+        "macro": "文学/创作",
+        "tag": "封神演义"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58635,12 +61041,24 @@
       ]
     ],
     "region": [
-      "匈牙利",
-      "中国"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      },
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      }
     ],
     "origin": [
-      "108人的万圣节·叛乱！",
-      "水浒传"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "水浒传"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58800,11 +61218,20 @@
       ]
     ],
     "region": [
-      "英国"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "『仙后』等",
-      "Fate/Grand Order"
+      {
+        "macro": "文学/创作",
+        "tag": "仙后"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -58964,13 +61391,28 @@
       ]
     ],
     "region": [
-      "俄罗斯"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "史实",
-      "琐罗亚斯德教",
-      "澳大利亚传说故事",
-      "Fate/stay night"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "琐罗亚斯德教"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "澳大利亚传说故事"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/stay night"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -59152,10 +61594,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -59324,10 +61772,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "阿兹特克神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -59498,11 +61952,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "阿兹特克文明",
-      "中南美神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -59679,11 +62138,20 @@
       ]
     ],
     "region": [
-      "？？？"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "玛雅神话",
-      "异闻带米克特兰"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -59845,10 +62313,16 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "传说故事"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60006,10 +62480,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60164,10 +62644,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60334,11 +62820,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "新约圣经",
-      "Fate/Grand Order"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60506,10 +63001,16 @@
       ]
     ],
     "region": [
-      "罗马"
+      {
+        "macro": "欧洲",
+        "tag": "罗马"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60663,11 +63164,16 @@
       ]
     ],
     "region": [
-      "爱尔兰"
+      {
+        "macro": "欧洲",
+        "tag": "爱尔兰"
+      }
     ],
     "origin": [
-      "凯尔特神话",
-      "阿尔斯特神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "凯尔特神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60825,10 +63331,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『义残后觉』『华鸟百谈』等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -60984,10 +63496,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -61141,10 +63659,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "摩诃婆罗多"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -61297,10 +63821,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -61474,11 +64004,16 @@
       ]
     ],
     "region": [
-      "希腊",
-      "无形之岛"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -61636,12 +64171,24 @@
       ]
     ],
     "region": [
-      "止境的奥克尼"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "英国妖精史",
-      "以及异闻带不列颠"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -61832,11 +64379,20 @@
       ]
     ],
     "region": [
-      "潮声的廷塔杰尔"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "亚瑟王传说",
-      "Fate/Grand Order"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62007,12 +64563,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "铃鹿草子",
-      "田村三代记",
-      "等等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62174,10 +64734,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62346,10 +64912,16 @@
       ]
     ],
     "region": [
-      "妖精国·爱丁堡"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62512,11 +65084,16 @@
       ]
     ],
     "region": [
-      "昏暗沼泽"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "法国妖精史",
-      "梅柳齐娜传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62696,11 +65273,20 @@
       ]
     ],
     "region": [
-      "妖精国·牛津"
+      {
+        "macro": "妖精国",
+        "tag": "妖精国"
+      }
     ],
     "origin": [
-      "英国妖精史",
-      "以及异闻带不列颠"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -62882,10 +65468,16 @@
       ]
     ],
     "region": [
-      "包裹在谜团当中"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "包裹在谜团当中"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63068,12 +65660,24 @@
       ]
     ],
     "region": [
-      "澳大利亚",
-      "从者宇宙"
+      {
+        "macro": "大洋洲",
+        "tag": "澳大利亚"
+      },
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "澳大利亚原住民神话",
-      "Fate/Grand Order"
+      {
+        "macro": "神话/宗教",
+        "tag": "澳大利亚原住民神话"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63237,11 +65841,20 @@
       ]
     ],
     "region": [
-      "马其顿",
-      "埃及"
+      {
+        "macro": "欧洲",
+        "tag": "马其顿"
+      },
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63402,11 +66015,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "『信长公记』等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63565,10 +66183,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63727,10 +66351,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -63896,10 +66526,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64053,10 +66689,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64212,11 +66854,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "Fate/Grand Order"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64378,12 +67029,24 @@
       ]
     ],
     "region": [
-      "欧洲",
-      "印度"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      },
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "希腊神话",
-      "『海底两万里』"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "海底两万里"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64544,12 +67207,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "古事记",
-      "日本书纪等",
-      "Fate/Samurai Remnant"
+      {
+        "macro": "神话/宗教",
+        "tag": "日本神话"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Samurai Remnant"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64708,11 +67379,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "『吾妻镜』『丑御前之地』等",
-      "Fate/Samurai Remnant"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Samurai Remnant"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -64877,12 +67561,24 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "『庆安太平记』等",
-      "Fate/Samurai Remnant"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "庆安太平记"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Samurai Remnant"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65034,11 +67730,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "Fate/Samurai Remnant"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Samurai Remnant"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65193,10 +67898,16 @@
       ]
     ],
     "region": [
-      "埃塞俄比亚"
+      {
+        "macro": "非洲",
+        "tag": "埃塞俄比亚"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65358,10 +68069,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65529,11 +68246,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东",
-      "山中老人"
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65688,10 +68414,16 @@
       ]
     ],
     "region": [
-      "法国"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "大仲马著『基督山伯爵』？"
+      {
+        "macro": "文学/创作",
+        "tag": "基督山伯爵"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -65854,11 +68586,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "大仲马著『王后的项链』等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "王后的项链"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66027,10 +68768,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魔法使之夜"
+      {
+        "macro": "型月原创",
+        "tag": "魔法使之夜"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66192,10 +68939,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魔法使之夜"
+      {
+        "macro": "型月原创",
+        "tag": "魔法使之夜"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66352,10 +69105,20 @@
       ]
     ],
     "region": [
-      "英国·日本"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      },
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魔法使之夜"
+      {
+        "macro": "型月原创",
+        "tag": "魔法使之夜"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66528,10 +69291,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魔法使之箱"
+      {
+        "macro": "型月原创",
+        "tag": "魔法使之箱"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66729,11 +69498,20 @@
       ]
     ],
     "region": [
-      "从者宇宙",
-      "美索不达米亚"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      },
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -66922,12 +69700,20 @@
       ]
     ],
     "region": [
-      "法国",
-      "其他"
+      {
+        "macro": "欧洲",
+        "tag": "法国"
+      }
     ],
     "origin": [
-      "月姬",
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "月姬"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67123,11 +69909,20 @@
       ]
     ],
     "region": [
-      "俄罗斯",
-      "乌克兰"
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "乌克兰"
+      }
     ],
     "origin": [
-      "俄罗斯英雄叙事诗（基辅歌圈）"
+      {
+        "macro": "传说/民间故事",
+        "tag": "俄罗斯叙事诗"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67295,11 +70090,24 @@
       ]
     ],
     "region": [
-      "中国及日本"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      },
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "徐福传说"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "中国民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67460,12 +70268,24 @@
       ]
     ],
     "region": [
-      "地球",
-      "SE.RA.PH"
+      {
+        "macro": "地球",
+        "tag": "地球"
+      },
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC",
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67654,11 +70474,16 @@
       ]
     ],
     "region": [
-      "中南美"
+      {
+        "macro": "美洲",
+        "tag": "中南美"
+      }
     ],
     "origin": [
-      "阿兹特克文明",
-      "中南美神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "中南美神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67823,10 +70648,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "宇宙守护者三部曲"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -67997,10 +70828,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA系列"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -68161,10 +70998,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA系列"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -68325,10 +71168,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -68511,10 +71360,16 @@
       ]
     ],
     "region": [
-      "埃及"
+      {
+        "macro": "非洲",
+        "tag": "埃及"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -68679,11 +71534,20 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "希腊神话"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -68845,12 +71709,16 @@
       ]
     ],
     "region": [
-      "北欧",
-      "拉普兰德地区"
+      {
+        "macro": "欧洲",
+        "tag": "北欧"
+      }
     ],
     "origin": [
-      "芬兰神话",
-      "卡勒瓦拉史诗"
+      {
+        "macro": "神话/宗教",
+        "tag": "芬兰神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69012,14 +71880,32 @@
       ]
     ],
     "region": [
-      "北美·马萨诸塞",
-      "欧洲",
-      "俄罗斯"
+      {
+        "macro": "美洲",
+        "tag": "美国"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "俄罗斯"
+      }
     ],
     "origin": [
-      "史实",
-      "芭蕾舞剧『胡桃夹子』",
-      "波赫约拉的圣诞前夜"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "胡桃夹子"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69186,13 +72072,20 @@
       ]
     ],
     "region": [
-      "三咲町",
-      "总耶区",
-      "其他"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "月姬",
-      "TAKE MOON"
+      {
+        "macro": "型月原创",
+        "tag": "月姬"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "TAKE MOON"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69375,10 +72268,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69544,10 +72443,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69723,10 +72628,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "黑姬物语"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -69880,11 +72791,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "小野小町传说等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70052,11 +72972,20 @@
       ]
     ],
     "region": [
-      "意大利"
+      {
+        "macro": "欧洲",
+        "tag": "意大利"
+      }
     ],
     "origin": [
-      "史实",
-      "『神曲』"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "文学/创作",
+        "tag": "神曲"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70215,11 +73144,20 @@
       ]
     ],
     "region": [
-      "欧洲全域"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实",
-      "以诺书等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70383,12 +73321,20 @@
       ]
     ],
     "region": [
-      "南亚"
+      {
+        "macro": "南亚",
+        "tag": "南亚"
+      }
     ],
     "origin": [
-      "史实",
-      "北印度传承",
-      "南印度传𠄘"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70543,10 +73489,20 @@
       ]
     ],
     "region": [
-      "中东及欧洲全域"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70706,10 +73662,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -70884,10 +73846,16 @@
       ]
     ],
     "region": [
-      "印度"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      }
     ],
     "origin": [
-      "印度神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "印度神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71054,10 +74022,16 @@
       ]
     ],
     "region": [
-      "地球"
+      {
+        "macro": "地球",
+        "tag": "地球"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71242,10 +74216,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71411,10 +74391,16 @@
       ]
     ],
     "region": [
-      "德国"
+      {
+        "macro": "欧洲",
+        "tag": "德国"
+      }
     ],
     "origin": [
-      "尼伯龙根之歌"
+      {
+        "macro": "神话/宗教",
+        "tag": "北欧神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71575,12 +74561,24 @@
       ]
     ],
     "region": [
-      "中国",
-      "希腊"
+      {
+        "macro": "东亚",
+        "tag": "中国"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "水浒传",
-      "希腊神话"
+      {
+        "macro": "文学/创作",
+        "tag": "水浒传"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71745,10 +74743,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "不明"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -71941,10 +74945,16 @@
       ]
     ],
     "region": [
-      "日本·冬木市"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "Fate/kaleid liner 魔法少女☆伊莉雅"
+      {
+        "macro": "型月原创",
+        "tag": "魔法少女☆伊莉雅"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72116,10 +75126,16 @@
       ]
     ],
     "region": [
-      "美索不达米亚"
+      {
+        "macro": "西亚",
+        "tag": "美索不达米亚"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72287,10 +75303,16 @@
       ]
     ],
     "region": [
-      "青春回忆"
+      {
+        "macro": "青春回忆",
+        "tag": "青春回忆"
+      }
     ],
     "origin": [
-      "往日夏天不应存在的幻影"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72451,12 +75473,24 @@
       ]
     ],
     "region": [
-      "印度",
-      "中东"
+      {
+        "macro": "南亚",
+        "tag": "印度"
+      },
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "『海底两万里』",
-      "旧约圣经（创世记）"
+      {
+        "macro": "文学/创作",
+        "tag": "海底两万里"
+      },
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72628,10 +75662,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72789,10 +75829,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -72946,10 +75992,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -73106,10 +76158,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -73270,10 +76328,16 @@
       ]
     ],
     "region": [
-      "匈牙利"
+      {
+        "macro": "欧洲",
+        "tag": "匈牙利"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -73443,10 +76507,16 @@
       ]
     ],
     "region": [
-      "从者宇宙"
+      {
+        "macro": "从者宇宙",
+        "tag": "从者宇宙"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": true,
     "cnDate": null,
@@ -73608,11 +76678,20 @@
       ]
     ],
     "region": [
-      "古代以色列"
+      {
+        "macro": "西亚",
+        "tag": "以色列"
+      }
     ],
     "origin": [
-      "旧约圣经",
-      "Fate/Grand Order"
+      {
+        "macro": "神话/宗教",
+        "tag": "圣经"
+      },
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -73767,10 +76846,16 @@
       ]
     ],
     "region": [
-      "不列颠"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "亚瑟王传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "亚瑟王传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -73934,10 +77019,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本民间传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74095,10 +77186,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本民间传说"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74257,10 +77354,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "罗马神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "罗马神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74418,10 +77521,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神話"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74605,12 +77714,24 @@
       ]
     ],
     "region": [
-      "欧洲",
-      "塞浦路斯",
-      "叙利亚地域的十字军国家"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "塞浦路斯"
+      },
+      {
+        "macro": "西亚",
+        "tag": "叙利亚"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74774,10 +77895,16 @@
       ]
     ],
     "region": [
-      "意大利+α"
+      {
+        "macro": "欧洲",
+        "tag": "意大利"
+      }
     ],
     "origin": [
-      "史实+α"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -74937,10 +78064,20 @@
       ]
     ],
     "region": [
-      "希腊～黑海沿岸"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "黑海沿岸"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75098,10 +78235,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75259,10 +78402,16 @@
       ]
     ],
     "region": [
-      "■■"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "origin": [
-      "■■■■"
+      {
+        "macro": "未知",
+        "tag": "未知"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75430,10 +78579,16 @@
       ]
     ],
     "region": [
-      "希腊"
+      {
+        "macro": "欧洲",
+        "tag": "希腊"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75610,11 +78765,16 @@
       ]
     ],
     "region": [
-      "英国等"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "『君主·埃尔梅罗Ⅱ世事件簿』",
-      "『君主·埃尔梅罗Ⅱ世的冒险』"
+      {
+        "macro": "型月原创",
+        "tag": "君主·埃尔梅罗II世系列"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75781,11 +78941,16 @@
       ]
     ],
     "region": [
-      "英国等"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      }
     ],
     "origin": [
-      "『君主·埃尔梅罗Ⅱ世事件簿』",
-      "『君主·埃尔梅罗Ⅱ世的冒险』"
+      {
+        "macro": "型月原创",
+        "tag": "君主·埃尔梅罗II世系列"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -75950,11 +79115,20 @@
       ]
     ],
     "region": [
-      "中东"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      }
     ],
     "origin": [
-      "中东",
-      "山中老人"
+      {
+        "macro": "史实",
+        "tag": "山中老人"
+      },
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -76142,11 +79316,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "日本民间传说",
-      "宇治拾遗物语等"
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -76307,10 +79486,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -76483,10 +79668,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "传说故事"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -76648,10 +79839,20 @@
       ]
     ],
     "region": [
-      "中东及欧洲全域"
+      {
+        "macro": "西亚",
+        "tag": "中东"
+      },
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "古代美索不达米亚神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "美索不达米亚神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -76820,11 +80021,20 @@
       ]
     ],
     "region": [
-      "SE.RA.PH",
-      "南美异闻带"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      },
+      {
+        "macro": "南美异闻带",
+        "tag": "南美异闻带"
+      }
     ],
     "origin": [
-      "Fate/Grand Order"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/Grand Order"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77005,11 +80215,20 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实",
-      "小野小町传说等"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77172,12 +80391,24 @@
       ]
     ],
     "region": [
-      "苏格兰",
-      "冲绳"
+      {
+        "macro": "欧洲",
+        "tag": "英国"
+      },
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "不列颠岛妖精史",
-      "冲绳传承"
+      {
+        "macro": "传说/民间故事",
+        "tag": "妖精史"
+      },
+      {
+        "macro": "传说/民间故事",
+        "tag": "日本民间传说"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77342,10 +80573,16 @@
       ]
     ],
     "region": [
-      "欧洲"
+      {
+        "macro": "欧洲",
+        "tag": "欧洲"
+      }
     ],
     "origin": [
-      "希腊神话"
+      {
+        "macro": "神话/宗教",
+        "tag": "希腊神话"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77507,10 +80744,16 @@
       ]
     ],
     "region": [
-      "SE.RA.PH"
+      {
+        "macro": "SE.RA.PH",
+        "tag": "SE.RA.PH"
+      }
     ],
     "origin": [
-      "Fate/EXTRA CCC"
+      {
+        "macro": "型月原创",
+        "tag": "Fate/EXTRA"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77669,10 +80912,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "魏志倭人传"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -77838,10 +81087,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
@@ -78000,10 +81255,16 @@
       ]
     ],
     "region": [
-      "日本"
+      {
+        "macro": "东亚",
+        "tag": "日本"
+      }
     ],
     "origin": [
-      "史实"
+      {
+        "macro": "史实",
+        "tag": "史实"
+      }
     ],
     "cn": false,
     "cnDate": null,
