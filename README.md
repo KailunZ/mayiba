@@ -89,9 +89,9 @@ node scripts/build.mjs
 
 ## 版权及限制
 
-文字资料来自 [Mooncell 贡献者](https://fgo.wiki/)，其站点 rightsinfo 声明 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。原始缓存及规范化派生资料保留署名、来源与相同方式共享要求，仅供非商业使用。本游戏未获 Mooncell 或 FGO 官方背书。
+文字资料来自 [Mooncell 贡献者](https://fgo.wiki/)，其站点 rightsinfo 声明 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)。原始缓存及规范化派生资料保留署名、来源与相同方式共享要求，仅供非商业使用。本游戏未获 Mooncell、Atlas Academy 或 FGO 官方背书。
 
-官方美术的授权不由文字许可覆盖。当前使用原创文字徽章，`portrait.url` 为 `null`；没有冒用头像授权。OpenCC-js、pinyin-pro 及 TypeScript 的许可保留在各自 vendor 包内；静态发布也包含 OpenCC 及相关数据许可。
+头像索引来自 Atlas Academy，按 collectionNo 与内部 ID 双重匹配。图像版权归原权利人，不适用文字资料的 CC 许可；来源记录在 data/portraits.json。缺失或加载失败时显示文字徽章。OpenCC-js、pinyin-pro 及 TypeScript 的许可保留在各自 vendor 包内；静态发布也包含 OpenCC 及相关数据许可。
 
 尚存边界：具体国服实装日期未核实；地域与出处使用人工核对的两级字典，同细分集合为绿、共享细分或有效大类为黄，未知不参与匹配；复杂模板中仍无法安全解释的字段保留未知。全部数据来自社区资料，未逐条与游戏客户端人工复核。客户端可查看答案，不适用于有奖竞技。
 

@@ -6,3 +6,4 @@ main{max-width:1900px;padding-left:3%;padding-right:3%}.scroll{overflow:visible;
 
 #results .answerrow td{border-top:3px solid #b39650;background:#fff4d7;color:#413510}#results .answerrow td:first-child strong{display:block;margin-bottom:8px}
 #results details{font-size:11px;margin-top:6px;line-height:1.5}#results summary{cursor:pointer}
+.avatar{position:relative;overflow:hidden;width:48px;height:52px}.avatar img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.avatar img[hidden]{display:none}#ending .avatar{width:72px;height:78px;margin-bottom:10px}
