@@ -1,0 +1,3071 @@
+{
+  "schemaVersion": 2,
+  "status": "approved-local-not-published",
+  "field": "region",
+  "description": "exactInputs.values 为原文到两级结构的权威映射，overrides 按从者编号优先。tokenMappings 为可核对的归并字典；修改字典后应同步 exactInputs，再运行 scripts/apply-taxonomy.mjs。原始 raw 字段不可改动。",
+  "tokenMappings": {
+    "日本": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中国": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "中国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "远东": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "远东"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "越南": {
+      "values": [
+        {
+          "macro": "东南亚",
+          "tag": "越南"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "印度": {
+      "values": [
+        {
+          "macro": "南亚",
+          "tag": "印度"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "南亚": {
+      "values": [
+        {
+          "macro": "南亚",
+          "tag": "南亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中东": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "中东"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "西亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "西亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "波斯": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "波斯"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "美索不达米亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "美索不达米亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "巴比伦尼亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴比伦尼亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "以色列": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "以色列"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿拉伯半岛": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "阿拉伯半岛"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "巴尔米拉": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴尔米拉"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "叙利亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "叙利亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中亚": {
+      "values": [
+        {
+          "macro": "中亚",
+          "tag": "中亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "英国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "法国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "法国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "德国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "德国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "希腊": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "意大利": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "意大利"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "罗马": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "罗马"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "爱尔兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "爱尔兰"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "西班牙": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "西班牙"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "瑞士": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "瑞士"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "匈牙利": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "匈牙利"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "罗马尼亚": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "罗马尼亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北欧": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "俄罗斯": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "俄罗斯"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "乌克兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "乌克兰"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "马其顿": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "马其顿"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "塞浦路斯": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "塞浦路斯"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "地中海": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "地中海"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "黑海沿岸": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "黑海沿岸"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "欧洲": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "埃及": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "埃及"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "东非": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "东非"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "埃塞俄比亚": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "埃塞俄比亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "北美": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "北美"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "美国": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "加拿大": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "加拿大"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "中南美": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "中南美"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "加勒比海": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "加勒比海"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "澳大利亚": {
+      "values": [
+        {
+          "macro": "大洋洲",
+          "tag": "澳大利亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "圣诞岛": {
+      "values": [
+        {
+          "macro": "大洋洲",
+          "tag": "圣诞岛"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "冬木市": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "姬路城": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "新宿": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "秋叶原": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "信州户隐": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "冲绳": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "三咲町": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "总耶区": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "马赛克市秋叶原": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "英格兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "苏格兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "伦敦": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "雪伍德": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "牛津": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "爱丁堡": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "达灵顿附近": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "斯巴达": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "科林斯": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "乌鲁克": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴比伦尼亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "马萨诸塞": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "丹麦": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "挪威": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "芬兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "拉普兰德地区": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "西欧": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "出现地为欧洲": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "意大利+α": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "意大利"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "塞浦路斯岛": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "塞浦路斯"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "阿拉伯半岛西南部": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "阿拉伯半岛"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "巴尔米拉帝国": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴尔米拉"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "叙利亚地域的十字军国家": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "叙利亚"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "地球": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "地球整体": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "全世界": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "迦勒底": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：迦勒底与小达芬奇的南极统一显示迦勒底。"
+    },
+    "南极": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：迦勒底与小达芬奇的南极统一显示迦勒底。"
+    },
+    "SE.RA.PH": {
+      "values": [
+        {
+          "macro": "SE.RA.PH",
+          "tag": "SE.RA.PH"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "从者宇宙": {
+      "values": [
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "兰丸星": {
+      "values": [
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "妖精国": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "妖精国不列颠": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "潮声的廷塔杰尔": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "止境的奥克尼": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "昏暗沼泽": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "status": "proposed",
+      "note": "按本轮指定口径"
+    },
+    "无形之岛": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿：不归妖精国，收敛至希腊。"
+    },
+    "海底某处": {
+      "values": [],
+      "status": "approved",
+      "note": "定稿：删除孤立标签，祈荒保留日本。"
+    },
+    "青春回忆": {
+      "values": [
+        {
+          "macro": "青春回忆",
+          "tag": "青春回忆"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持独立特殊地域。"
+    },
+    "监狱城恰赫季斯": {
+      "values": [
+        {
+          "macro": "监狱城恰赫季斯",
+          "tag": "监狱城恰赫季斯"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持独立特殊地域。"
+    },
+    "异邦异闻带": {
+      "values": [
+        {
+          "macro": "异邦异闻带",
+          "tag": "异邦异闻带"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持独立特殊地域。"
+    },
+    "南美异闻带": {
+      "values": [
+        {
+          "macro": "南美异闻带",
+          "tag": "南美异闻带"
+        }
+      ],
+      "status": "approved",
+      "note": "定稿确认：保持独立特殊地域。"
+    }
+  },
+  "exactInputs": {
+    "迦勒底": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "sourceTokens": [
+        "迦勒底"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "英国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "罗马": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "罗马"
+        }
+      ],
+      "sourceTokens": [
+        "罗马"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "德国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "德国"
+        }
+      ],
+      "sourceTokens": [
+        "德国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "欧洲": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中亚～欧洲": {
+      "values": [
+        {
+          "macro": "中亚",
+          "tag": "中亚"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "中亚",
+        "欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "法国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "法国"
+        }
+      ],
+      "sourceTokens": [
+        "法国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "__NULL__": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "巴比伦尼亚、乌鲁克": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴比伦尼亚"
+        }
+      ],
+      "sourceTokens": [
+        "巴比伦尼亚",
+        "乌鲁克"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国、雪伍德": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "英国",
+        "雪伍德"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "sourceTokens": [
+        "希腊"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "西亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "西亚"
+        }
+      ],
+      "sourceTokens": [
+        "西亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "爱尔兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "爱尔兰"
+        }
+      ],
+      "sourceTokens": [
+        "爱尔兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "匈牙利": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "匈牙利"
+        }
+      ],
+      "sourceTokens": [
+        "匈牙利"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "斯巴达": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "sourceTokens": [
+        "斯巴达"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊、无形之岛": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "sourceTokens": [
+        "希腊",
+        "无形之岛"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "加勒比海": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "加勒比海"
+        }
+      ],
+      "sourceTokens": [
+        "加勒比海"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊、科林斯": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "sourceTokens": [
+        "希腊",
+        "科林斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "丹麦": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "sourceTokens": [
+        "丹麦"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英格兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "英格兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中国": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "中国"
+        }
+      ],
+      "sourceTokens": [
+        "中国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中东": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "中东"
+        }
+      ],
+      "sourceTokens": [
+        "中东"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "法国～德国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "法国"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "德国"
+        }
+      ],
+      "sourceTokens": [
+        "法国",
+        "德国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "罗马尼亚": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "罗马尼亚"
+        }
+      ],
+      "sourceTokens": [
+        "罗马尼亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "挪威～英格兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "挪威",
+        "英格兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "SE.RA.PH": {
+      "values": [
+        {
+          "macro": "SE.RA.PH",
+          "tag": "SE.RA.PH"
+        }
+      ],
+      "sourceTokens": [
+        "SE.RA.PH"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "以色列": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "以色列"
+        }
+      ],
+      "sourceTokens": [
+        "以色列"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "加勒比": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "加勒比海"
+        }
+      ],
+      "sourceTokens": [
+        "加勒比海"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "芬兰（自称）": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "sourceTokens": [
+        "芬兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "自称地域按指定口径保留，真实性与猜谜口径需确认。"
+      ]
+    },
+    "伦敦": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "伦敦"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "欧洲全域": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "印度": {
+      "values": [
+        {
+          "macro": "南亚",
+          "tag": "印度"
+        }
+      ],
+      "sourceTokens": [
+        "印度"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "从者宇宙": {
+      "values": [
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        }
+      ],
+      "sourceTokens": [
+        "从者宇宙"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "sourceTokens": [
+        "北欧"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北美": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "北美"
+        }
+      ],
+      "sourceTokens": [
+        "北美"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "古波斯": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "波斯"
+        }
+      ],
+      "sourceTokens": [
+        "波斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "远东": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "远东"
+        }
+      ],
+      "sourceTokens": [
+        "远东"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "—": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "埃及": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "埃及"
+        }
+      ],
+      "sourceTokens": [
+        "埃及"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "不列颠": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "英国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本·冬木市": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本",
+        "冬木市"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "监狱城恰赫季斯": {
+      "values": [
+        {
+          "macro": "监狱城恰赫季斯",
+          "tag": "监狱城恰赫季斯"
+        }
+      ],
+      "sourceTokens": [
+        "监狱城恰赫季斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "监狱城恰赫季斯：暂独立保留，不共享泛化的“特殊地域”大类；建议人工确认具体世界/地区。"
+      ]
+    },
+    "圣诞岛（自称）": {
+      "values": [
+        {
+          "macro": "大洋洲",
+          "tag": "圣诞岛"
+        }
+      ],
+      "sourceTokens": [
+        "圣诞岛"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "自称地域按指定口径保留，真实性与猜谜口径需确认。"
+      ]
+    },
+    "美索不达米亚": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "美索不达米亚"
+        }
+      ],
+      "sourceTokens": [
+        "美索不达米亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中南美": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "中南美"
+        }
+      ],
+      "sourceTokens": [
+        "中南美"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "西欧诸国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "西欧"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "美国": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "sourceTokens": [
+        "美国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "波斯": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "波斯"
+        }
+      ],
+      "sourceTokens": [
+        "波斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "西班牙": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "西班牙"
+        }
+      ],
+      "sourceTokens": [
+        "西班牙"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国、全世界": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        },
+        {
+          "macro": "地球",
+          "tag": "地球"
+        }
+      ],
+      "sourceTokens": [
+        "英国",
+        "全世界"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "美国、加拿大": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        },
+        {
+          "macro": "美洲",
+          "tag": "加拿大"
+        }
+      ],
+      "sourceTokens": [
+        "美国",
+        "加拿大"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本（姬路城）": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本",
+        "姬路城"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "东非、阿拉伯半岛西南部": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "东非"
+        },
+        {
+          "macro": "西亚",
+          "tag": "阿拉伯半岛"
+        }
+      ],
+      "sourceTokens": [
+        "东非",
+        "阿拉伯半岛西南部"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北美·马萨诸塞": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "sourceTokens": [
+        "北美",
+        "马萨诸塞"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "俄罗斯": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "俄罗斯"
+        }
+      ],
+      "sourceTokens": [
+        "俄罗斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "-": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国等": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "英国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "―": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "瑞士": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "瑞士"
+        }
+      ],
+      "sourceTokens": [
+        "瑞士"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "2018年·南极": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "sourceTokens": [
+        "南极"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "异邦异闻带": {
+      "values": [
+        {
+          "macro": "异邦异闻带",
+          "tag": "异邦异闻带"
+        }
+      ],
+      "sourceTokens": [
+        "异邦异闻带"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "异邦异闻带：暂独立保留，不共享泛化的“特殊地域”大类；建议人工确认具体世界/地区。"
+      ]
+    },
+    "西欧": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "西欧"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北美·美利坚合众国": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "sourceTokens": [
+        "北美",
+        "美国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本·信州户隐": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本",
+        "信州户隐"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本·马赛克市『秋叶原』、『新宿』": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本",
+        "马赛克市秋叶原",
+        "新宿"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "潮声的廷塔杰尔": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "潮声的廷塔杰尔"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "日本、海底某处": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "日本",
+        "海底某处"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "欧洲、印度": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        },
+        {
+          "macro": "南亚",
+          "tag": "印度"
+        }
+      ],
+      "sourceTokens": [
+        "欧洲",
+        "印度"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "地中海、欧洲": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "地中海"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "地中海",
+        "欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊·塞浦路斯岛": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "塞浦路斯"
+        }
+      ],
+      "sourceTokens": [
+        "希腊",
+        "塞浦路斯岛"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "止境的奥克尼": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "止境的奥克尼"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "妖精国·牛津": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "妖精国",
+        "牛津"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "带妖精国前缀的牛津/爱丁堡/达灵顿不按现实英国处理；优先隔离虚构地域，待确认。"
+      ]
+    },
+    "妖精国·达灵顿附近": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "妖精国",
+        "达灵顿附近"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "带妖精国前缀的牛津/爱丁堡/达灵顿不按现实英国处理；优先隔离虚构地域，待确认。"
+      ]
+    },
+    "昏暗沼泽": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "昏暗沼泽"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "苏格兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        }
+      ],
+      "sourceTokens": [
+        "苏格兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "妖精国不列颠": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "妖精国不列颠"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "欧洲、塞浦路斯、叙利亚地域的十字军国家": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "塞浦路斯"
+        },
+        {
+          "macro": "西亚",
+          "tag": "叙利亚"
+        }
+      ],
+      "sourceTokens": [
+        "欧洲",
+        "塞浦路斯",
+        "叙利亚地域的十字军国家"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "巴尔米拉帝国": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "巴尔米拉"
+        }
+      ],
+      "sourceTokens": [
+        "巴尔米拉帝国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "兰丸星": {
+      "values": [
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        }
+      ],
+      "sourceTokens": [
+        "兰丸星"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "俄罗斯、乌克兰": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "俄罗斯"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "乌克兰"
+        }
+      ],
+      "sourceTokens": [
+        "俄罗斯",
+        "乌克兰"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "马其顿": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "马其顿"
+        }
+      ],
+      "sourceTokens": [
+        "马其顿"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "越南": {
+      "values": [
+        {
+          "macro": "东南亚",
+          "tag": "越南"
+        }
+      ],
+      "sourceTokens": [
+        "越南"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北美大陆（美国、加拿大）": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        },
+        {
+          "macro": "美洲",
+          "tag": "加拿大"
+        }
+      ],
+      "sourceTokens": [
+        "北美",
+        "美国",
+        "加拿大"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "地球整体（出现地为欧洲）": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "地球整体",
+        "出现地为欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "出现地与本源地域可能不同，暂保留地球与欧洲双标签。"
+      ]
+    },
+    "中国及日本": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "中国"
+        },
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "中国",
+        "日本"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中国、希腊": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "中国"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "sourceTokens": [
+        "中国",
+        "希腊"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "匈牙利、中国": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "匈牙利"
+        },
+        {
+          "macro": "东亚",
+          "tag": "中国"
+        }
+      ],
+      "sourceTokens": [
+        "匈牙利",
+        "中国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "？？？": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "妖精国·爱丁堡": {
+      "values": [
+        {
+          "macro": "妖精国",
+          "tag": "妖精国"
+        }
+      ],
+      "sourceTokens": [
+        "妖精国",
+        "爱丁堡"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "带妖精国前缀的牛津/爱丁堡/达灵顿不按现实英国处理；优先隔离虚构地域，待确认。"
+      ]
+    },
+    "包裹在谜团当中": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "澳大利亚、从者宇宙": {
+      "values": [
+        {
+          "macro": "大洋洲",
+          "tag": "澳大利亚"
+        },
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        }
+      ],
+      "sourceTokens": [
+        "澳大利亚",
+        "从者宇宙"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "马其顿、埃及": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "马其顿"
+        },
+        {
+          "macro": "非洲",
+          "tag": "埃及"
+        }
+      ],
+      "sourceTokens": [
+        "马其顿",
+        "埃及"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "埃塞俄比亚": {
+      "values": [
+        {
+          "macro": "非洲",
+          "tag": "埃塞俄比亚"
+        }
+      ],
+      "sourceTokens": [
+        "埃塞俄比亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "英国·日本": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        },
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "英国",
+        "日本"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "从者宇宙、美索不达米亚": {
+      "values": [
+        {
+          "macro": "从者宇宙",
+          "tag": "从者宇宙"
+        },
+        {
+          "macro": "西亚",
+          "tag": "美索不达米亚"
+        }
+      ],
+      "sourceTokens": [
+        "从者宇宙",
+        "美索不达米亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "法国、其他": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "法国"
+        }
+      ],
+      "sourceTokens": [
+        "法国"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "地球、SE.RA.PH": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        },
+        {
+          "macro": "SE.RA.PH",
+          "tag": "SE.RA.PH"
+        }
+      ],
+      "sourceTokens": [
+        "地球",
+        "SE.RA.PH"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北欧、拉普兰德地区": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "北欧"
+        }
+      ],
+      "sourceTokens": [
+        "北欧",
+        "拉普兰德地区"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "北美·马萨诸塞、欧洲、俄罗斯": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "俄罗斯"
+        }
+      ],
+      "sourceTokens": [
+        "北美",
+        "马萨诸塞",
+        "欧洲",
+        "俄罗斯"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "三咲町、总耶区、其他": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "三咲町",
+        "总耶区"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "意大利": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "意大利"
+        }
+      ],
+      "sourceTokens": [
+        "意大利"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "南亚": {
+      "values": [
+        {
+          "macro": "南亚",
+          "tag": "南亚"
+        }
+      ],
+      "sourceTokens": [
+        "南亚"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "中东及欧洲全域": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "中东"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "欧洲"
+        }
+      ],
+      "sourceTokens": [
+        "中东",
+        "欧洲"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "第一、第二灵基：地球\n　　第三灵基：欧洲": {
+      "values": [
+        {
+          "macro": "地球",
+          "tag": "地球"
+        }
+      ],
+      "sourceTokens": [
+        "地球"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "青春回忆": {
+      "values": [
+        {
+          "macro": "青春回忆",
+          "tag": "青春回忆"
+        }
+      ],
+      "sourceTokens": [
+        "青春回忆"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "青春回忆：暂独立保留，不共享泛化的“特殊地域”大类；建议人工确认具体世界/地区。"
+      ]
+    },
+    "印度、中东": {
+      "values": [
+        {
+          "macro": "南亚",
+          "tag": "印度"
+        },
+        {
+          "macro": "西亚",
+          "tag": "中东"
+        }
+      ],
+      "sourceTokens": [
+        "印度",
+        "中东"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "古代以色列": {
+      "values": [
+        {
+          "macro": "西亚",
+          "tag": "以色列"
+        }
+      ],
+      "sourceTokens": [
+        "以色列"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "意大利+α": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "意大利"
+        }
+      ],
+      "sourceTokens": [
+        "意大利+α"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "希腊～黑海沿岸": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        },
+        {
+          "macro": "欧洲",
+          "tag": "黑海沿岸"
+        }
+      ],
+      "sourceTokens": [
+        "希腊",
+        "黑海沿岸"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "■■": {
+      "values": [
+        {
+          "macro": "未知",
+          "tag": "未知"
+        }
+      ],
+      "sourceTokens": [],
+      "status": "unknown",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    },
+    "SE.RA.PH、南美异闻带": {
+      "values": [
+        {
+          "macro": "SE.RA.PH",
+          "tag": "SE.RA.PH"
+        },
+        {
+          "macro": "南美异闻带",
+          "tag": "南美异闻带"
+        }
+      ],
+      "sourceTokens": [
+        "SE.RA.PH",
+        "南美异闻带"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": [
+        "南美异闻带：暂独立保留，不共享泛化的“特殊地域”大类；建议人工确认具体世界/地区。"
+      ]
+    },
+    "苏格兰、冲绳": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "英国"
+        },
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "sourceTokens": [
+        "苏格兰",
+        "冲绳"
+      ],
+      "status": "approved",
+      "notes": [
+        "沿用已验收v2方案，并执行本轮五项定稿修正。"
+      ],
+      "proposalNotes": []
+    }
+  },
+  "overrides": {
+    "1": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "notes": [
+        "用户定稿：只显示迦勒底。"
+      ],
+      "status": "approved"
+    },
+    "23": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "notes": [
+        "用户定稿：去除无形之岛/妖精国地域，保留希腊。"
+      ],
+      "status": "approved"
+    },
+    "195": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "notes": [
+        "用户定稿：保留美国，去除北美冗余。"
+      ],
+      "status": "approved"
+    },
+    "253": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "notes": [
+        "用户定稿：只显示迦勒底。"
+      ],
+      "status": "approved"
+    },
+    "281": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "notes": [
+        "用户定稿：保留美国，去除北美冗余。"
+      ],
+      "status": "approved"
+    },
+    "285": {
+      "values": [
+        {
+          "macro": "东亚",
+          "tag": "日本"
+        }
+      ],
+      "notes": [
+        "用户定稿：去除海底某处，仅保留日本。"
+      ],
+      "status": "approved"
+    },
+    "289": {
+      "values": [
+        {
+          "macro": "美洲",
+          "tag": "美国"
+        }
+      ],
+      "notes": [
+        "用户定稿：保留美国，去除北美冗余。"
+      ],
+      "status": "approved"
+    },
+    "320": {
+      "values": [
+        {
+          "macro": "迦勒底",
+          "tag": "迦勒底"
+        }
+      ],
+      "notes": [
+        "用户定稿：只显示迦勒底。"
+      ],
+      "status": "approved"
+    },
+    "384": {
+      "values": [
+        {
+          "macro": "欧洲",
+          "tag": "希腊"
+        }
+      ],
+      "notes": [
+        "用户定稿：去除无形之岛/妖精国地域，保留希腊。"
+      ],
+      "status": "approved"
+    }
+  },
+  "inputNullKey": "__NULL__",
+  "unknown": [
+    {
+      "macro": "未知",
+      "tag": "未知"
+    }
+  ],
+  "validMacros": [
+    "迦勒底",
+    "欧洲",
+    "中亚",
+    "西亚",
+    "东亚",
+    "美洲",
+    "SE.RA.PH",
+    "南亚",
+    "从者宇宙",
+    "非洲",
+    "监狱城恰赫季斯",
+    "大洋洲",
+    "地球",
+    "异邦异闻带",
+    "妖精国",
+    "东南亚",
+    "青春回忆",
+    "南美异闻带"
+  ],
+  "version": "taxonomy-v2-final"
+}
